@@ -1,69 +1,9 @@
 {
-  "items": [
-    {
-      "description": "Here is a curated list of papers about 3D-Related Tasks empowered by Large Language Models (LLMs). It contains various tasks including 3D understanding, reasoning, generation, and embodied agents. Also, we include other Foundation Models (CLIP, SAM) for the whole picture of this area.\nThis is an active repository, you can watch for following the latest advances. If you find it useful, please kindly star ⭐ this repo and cite the paper.",
-      "items": [],
-      "title": "🏠 About"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "3D Unified Understanding and Generation via LLM"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "3D Understanding via LLM"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "3D Understanding via other Foundation Models"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "3D Reasoning"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "3D Generation"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "3D Embodied Agent"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "3D Benchmarks"
-    },
-    {
-      "description": "Your contributions are always welcome!\nI will keep some pull requests open if I'm not sure if they are awesome for 3D LLMs, you could vote for them by adding 👍 to them.\nIf you have any questions about this opinionated list, please get in touch at xianzheng@robots.ox.ac.uk or Wechat ID: mxz1997112.",
-      "items": [],
-      "title": "Contributing"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Star History"
-    },
-    {
-      "description": "If you find this repository useful, please consider citing this paper:",
-      "items": [],
-      "title": "Citation"
-    },
-    {
-      "description": "This repo is inspired by Awesome-LLM",
-      "items": [],
-      "title": "Acknowledgement"
-    }
-  ],
+  "items": [],
   "metadata": {
-    "last_updated": "2026-08-18T19:41:31.106Z",
+    "last_updated": "2026-08-19T12:09:13.799Z",
     "original_repository": "ActiveVisionLab/Awesome-LLM-3D",
+    "original_repository_id": 731892810,
     "original_repository_sha": "f01b39ba48d980a910791407ec5d626acf6005ff",
     "enhanced_repository": "enhansome/enhansome-Awesome-LLM-3D",
     "enhanced_repository_description": null,
