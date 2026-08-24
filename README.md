@@ -81,7 +81,7 @@ This is an active repository, you can watch for following the latest advances. I
 | 2023-12-21 |     LiDAR-LLM    |            PKU           | [LiDAR-LLM: Exploring the Potential of Large Language Models for 3D LiDAR Understanding](https://arxiv.org/pdf/2312.14074.pdf)                                       |       Arxiv       |                                    [project](https://sites.google.com/view/lidar-llm)                                   |       |
 | 2023-12-15 |       3DAP       |      Shanghai AI Lab     | [3DAxiesPrompts: Unleashing the 3D Spatial Task Capabilities of GPT-4V](https://arxiv.org/pdf/2312.09738.pdf)                                                        |       Arxiv       |                                                       [project]()                                                       |       |
 | 2023-12-13 |    Chat-Scene    |            ZJU           | [Chat-Scene: Bridging 3D Scene and Large Language Models with Object Identifiers](https://arxiv.org/pdf/2312.08168.pdf)                                              |    NeurIPS '24    |               [github](https://github.com/ZzZZCHS/Chat-Scene) ⭐ 217 \| 🐛 12 \| 🌐 Python \| 📅 2026-04-12              |       |
-|  2023-12-5 |     GPT4Point    |            HKU           | [GPT4Point: A Unified Framework for Point-Language Understanding and Generation](https://arxiv.org/pdf/2312.02980.pdf)                                               |       Arxiv       |              [github](https://github.com/Pointcept/GPT4Point) ⭐ 445 \| 🐛 19 \| 🌐 Python \| 📅 2024-04-27              |       |
+|  2023-12-5 |     GPT4Point    |            HKU           | [GPT4Point: A Unified Framework for Point-Language Understanding and Generation](https://arxiv.org/pdf/2312.02980.pdf)                                               |       Arxiv       |              [github](https://github.com/Pointcept/GPT4Point) ⭐ 446 \| 🐛 19 \| 🌐 Python \| 📅 2024-04-27              |       |
 | 2023-11-30 |       LL3DA      |     Fudan University     | [LL3DA: Visual Interactive Instruction Tuning for Omni-3D Understanding, Reasoning, and Planning](https://arxiv.org/pdf/2311.18651.pdf)                              |       Arxiv       |                 [github](https://github.com/Open3DA/LL3DA) ⭐ 319 \| 🐛 19 \| 🌐 Python \| 📅 2024-07-17                 |       |
 | 2023-11-26 |      ZSVG3D      |         CUHK(SZ)         | [Visual Programming for Zero-shot Open-Vocabulary 3D Visual Grounding](https://arxiv.org/pdf/2311.15383.pdf)                                                         |       Arxiv       |                                      [project](https://curryyuan.github.io/ZSVG3D/)                                     | Arxiv |
 | 2023-11-18 |        LEO       |           BIGAI          | [An Embodied Generalist Agent in 3D World](https://arxiv.org/pdf/2311.12871.pdf)                                                                                     |      ICML '24     |     [github](https://github.com/embodied-generalist/embodied-generalist) ⭐ 488 \| 🐛 0 \| 🌐 Python \| 📅 2025-04-20    |       |
@@ -249,7 +249,7 @@ If you find this repository useful, please consider citing this paper:
 
 ## Acknowledgement
 
-This repo is inspired by [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM?tab=readme-ov-file#other-awesome-lists) ⭐ 27,279 | 🐛 445 | 📅 2025-07-31
+This repo is inspired by [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM?tab=readme-ov-file#other-awesome-lists) ⭐ 27,281 | 🐛 445 | 📅 2025-07-31
 
 ***
 
