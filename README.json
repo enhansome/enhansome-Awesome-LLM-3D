@@ -1,7 +1,1049 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "2025-11-07",
+          "description": "Omni-View PKU Omni-View: Unlocking How Generation Facilitates Understanding in Unified 3D Model based on Multiview images ICLR 2026 github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1115068236,
+            "language": "Python",
+            "last_commit": "2026-01-27T15:20:39Z",
+            "owner": "ATH-MaaS",
+            "repo": "Omni-View",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2025-08-16",
+          "description": "UniUGG FDU UniUGG: Unified 3D Understanding and Generation via Geometric-Semantic Encoding ICLR 2026 github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1035913630,
+            "language": "Python",
+            "last_commit": "2026-07-16T12:20:45Z",
+            "owner": "fudan-zvg",
+            "repo": "UniUGG",
+            "stars": 63
+          }
+        }
+      ],
+      "title": "3D Unified Understanding and Generation via LLM"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "2026-03-07",
+          "description": "3D-RFT BIGAI 3D-RFT: Reinforcement Fine-Tuning for Video-based 3D Scene Understanding Arxiv github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1174398229,
+            "language": "Python",
+            "last_commit": "2026-08-09T09:33:29Z",
+            "owner": "3D-RFT",
+            "repo": "3D-RFT",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2025-11-27",
+          "description": "G2VLM Shanghai AI Lab G2VLM: Geometry Grounded Vision Language Model with Unified 3D Reconstruction and Spatial Reasoning Arxiv github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1105015985,
+            "language": "Python",
+            "last_commit": "2026-04-18T22:20:48Z",
+            "owner": "InternRobotics",
+            "repo": "G2VLM",
+            "stars": 352
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2025-11-07",
+          "description": "Omni-View PKU Omni-View: Unlocking How Generation Facilitates Understanding in Unified 3D Model based on Multiview images ICLR 2026 github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1115068236,
+            "language": "Python",
+            "last_commit": "2026-01-27T15:20:39Z",
+            "owner": "ATH-MaaS",
+            "repo": "Omni-View",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2025-08-16",
+          "description": "UniUGG FDU UniUGG: Unified 3D Understanding and Generation via Geometric-Semantic Encoding ICLR 2026 github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1035913630,
+            "language": "Python",
+            "last_commit": "2026-07-16T12:20:45Z",
+            "owner": "fudan-zvg",
+            "repo": "UniUGG",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2025-04-24",
+          "description": "3D-LLaVA U of Adelaide 3D-LLaVA: Towards Generalist 3D LMMs with Omni Superpoint Transformer CVPR '25 github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 952320700,
+            "language": "Python",
+            "last_commit": "2025-05-26T14:50:49Z",
+            "owner": "djiajunustc",
+            "repo": "3D-LLaVA",
+            "stars": 101
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2025-03-01",
+          "description": "Inst3D-LMM ZJU Inst3D-LMM: Instance-Aware 3D Scene Understanding with Multi-modal Instruction Tuning CVPR '25 github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 939691815,
+            "language": "Python",
+            "last_commit": "2026-01-30T08:34:00Z",
+            "owner": "hanxunyu",
+            "repo": "Inst3D-LMM",
+            "stars": 135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2025-02-13",
+          "description": "ENEL SH AILab ENEL: Exploring the Potential of Encoder-free Architectures in 3D LMMs Arxiv project",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 932067696,
+            "language": "Python",
+            "last_commit": "2026-01-26T14:51:14Z",
+            "owner": "Ivan-Tang-3D",
+            "repo": "ENEL",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2025-02-02",
+          "description": "LSceneLLM SCUT LSceneLLM: Enhancing Large 3D Scene Understanding Using Adaptive Visual Preferences CVPR '25 project",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 925256574,
+            "language": "C++",
+            "last_commit": "2025-03-29T04:55:57Z",
+            "owner": "Hoyyyaard",
+            "repo": "LSceneLLM",
+            "stars": 74
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024-12-03",
+          "description": "Video-3D LLM CUHK Video-3D LLM: Learning Position-Aware Video Representation for 3D Scene Understanding CVPR '25 project",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 894310816,
+            "language": "Python",
+            "last_commit": "2025-06-04T09:16:56Z",
+            "owner": "LaVi-Lab",
+            "repo": "Video-3D-LLM",
+            "stars": 221
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024-09-30",
+          "description": "Robin3D HKU Robin3D: Improving 3D Large Language Model via Robust Instruction Tuning ICCV '25 github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 865628720,
+            "language": "Python",
+            "last_commit": "2025-10-19T13:16:26Z",
+            "owner": "WeitaiKang",
+            "repo": "Robin3D",
+            "stars": 71
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024-08-28",
+          "description": "GreenPLM HUST More Text, Less Point: Towards 3D Data-Efficient Point-Language Understanding Arxiv github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 845559941,
+            "language": null,
+            "last_commit": "2026-03-20T06:34:50Z",
+            "owner": "TangYuan96",
+            "repo": "GreenPLM",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024-06-03",
+          "description": "SpatialRGPT UCSD SpatialRGPT: Grounded Spatial Reasoning in Vision Language Models NeurIPS '24 github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 869405201,
+            "language": "Python",
+            "last_commit": "2024-12-14T23:41:03Z",
+            "owner": "AnjieCheng",
+            "repo": "SpatialRGPT",
+            "stars": 337
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023-12-13",
+          "description": "Chat-Scene ZJU Chat-Scene: Bridging 3D Scene and Large Language Models with Object Identifiers NeurIPS '24 github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 730259473,
+            "language": "Python",
+            "last_commit": "2026-04-12T04:33:59Z",
+            "owner": "ZzZZCHS",
+            "repo": "Chat-Scene",
+            "stars": 217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023-12-5",
+          "description": "GPT4Point HKU GPT4Point: A Unified Framework for Point-Language Understanding and Generation Arxiv github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 677699930,
+            "language": "Python",
+            "last_commit": "2024-04-27T03:46:37Z",
+            "owner": "Pointcept",
+            "repo": "GPT4Point",
+            "stars": 445
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023-11-30",
+          "description": "LL3DA Fudan University LL3DA: Visual Interactive Instruction Tuning for Omni-3D Understanding, Reasoning, and Planning Arxiv github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 724031176,
+            "language": "Python",
+            "last_commit": "2024-07-17T15:08:55Z",
+            "owner": "Open3DA",
+            "repo": "LL3DA",
+            "stars": 319
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023-11-18",
+          "description": "LEO BIGAI An Embodied Generalist Agent in 3D World ICML '24 github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 716994089,
+            "language": "Python",
+            "last_commit": "2025-04-20T11:14:46Z",
+            "owner": "embodied-generalist",
+            "repo": "embodied-generalist",
+            "stars": 488
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023-10-14",
+          "description": "JM3D-LLM Xiamen University JM3D & JM3D-LLM: Elevating 3D Representation with Joint Multi-modal Cues ACM MM '23 github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 636661992,
+            "language": "Python",
+            "last_commit": "2026-04-08T11:21:25Z",
+            "owner": "Mr-Neko",
+            "repo": "JM3D",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023-10-10",
+          "description": "Uni3D BAAI Uni3D: Exploring Unified 3D Representation at Scale ICLR '24 project",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 703088628,
+            "language": "Python",
+            "last_commit": "2026-01-12T08:39:36Z",
+            "owner": "baaivision",
+            "repo": "Uni3D",
+            "stars": 683
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023-9-21",
+          "description": "LLM-Grounder U-Mich LLM-Grounder: Open-Vocabulary 3D Visual Grounding with Large Language Model as an Agent ICRA '24 github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 633508130,
+            "language": "Python",
+            "last_commit": "2025-10-10T07:52:31Z",
+            "owner": "sled-group",
+            "repo": "chat-with-nerf",
+            "stars": 323
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023-9-1",
+          "description": "Point-Bind CUHK Point-Bind & Point-LLM: Aligning Point Cloud with Multi-modality for 3D Understanding, Generation, and Instruction Following Arxiv github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 649890752,
+            "language": "Python",
+            "last_commit": "2023-12-09T07:34:28Z",
+            "owner": "ZiyuGuo99",
+            "repo": "Point-Bind_Point-LLM",
+            "stars": 464
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023-8-31",
+          "description": "PointLLM CUHK PointLLM: Empowering Large Language Models to Understand Point Clouds ECCV '24 github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 679564879,
+            "language": "Python",
+            "last_commit": "2026-05-15T07:35:59Z",
+            "owner": "InternRobotics",
+            "repo": "PointLLM",
+            "stars": 1050
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023-8-17",
+          "description": "Chat-3D ZJU Chat-3D: Data-efficiently Tuning Large Language Model for Universal Dialogue of 3D Scenes Arxiv github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 679244031,
+            "language": "Python",
+            "last_commit": "2024-03-28T13:58:42Z",
+            "owner": "Chat-3D",
+            "repo": "Chat-3D",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023-7-24",
+          "description": "3D-LLM UCLA 3D-LLM: Injecting the 3D World into Large Language Models NeurIPS '23 github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 670231330,
+            "language": "Python",
+            "last_commit": "2024-06-06T19:14:00Z",
+            "owner": "UMass-Embodied-AGI",
+            "repo": "3D-LLM",
+            "stars": 1211
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023-3-29",
+          "description": "ViewRefer CUHK ViewRefer: Grasp the Multi-view Knowledge for 3D Visual Grounding ICCV '23 github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 620925605,
+            "language": "C++",
+            "last_commit": "2024-04-18T11:53:20Z",
+            "owner": "Ivan-Tang-3D",
+            "repo": "ViewRefer3D",
+            "stars": 60
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022-9-12",
+          "description": "- MIT Leveraging Large (Visual) Language Models for Robot 3D Scene Understanding Arxiv github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 528108596,
+            "language": "HTML",
+            "last_commit": "2023-06-13T16:19:46Z",
+            "owner": "MIT-SPARK",
+            "repo": "llm_scene_understanding",
+            "stars": 90
+          }
+        }
+      ],
+      "title": "3D Understanding via LLM"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "2026-03-21",
+          "description": "OV3D-CG ICT, CAS OV3D-CG: Open-vocabulary 3D Instance Segmentation with Contextual Guidance ICCV '2025 github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1017818530,
+            "language": "Python",
+            "last_commit": "2025-12-15T03:42:52Z",
+            "owner": "VIPL-VSU",
+            "repo": "OV3D-CG",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2025-07-26",
+          "description": "OV-3DDet HKUST CoDAv2: Collaborative Novel Object Discovery and Box-Guided Cross-Modal Alignment for Open-Vocabulary 3D Object Detection TPAMI '25 github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 700636892,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-05-28T09:26:19Z",
+            "owner": "yangcaoai",
+            "repo": "CoDA_NeurIPS2023",
+            "stars": 224
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024-04-07",
+          "description": "Any2Point Shanghai AI Lab Any2Point: Empowering Any-modality Large Models for Efficient 3D Understanding ECCV'24 github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 783630881,
+            "language": "Python",
+            "last_commit": "2024-07-02T08:54:50Z",
+            "owner": "Ivan-Tang-3D",
+            "repo": "Any2Point",
+            "stars": 127
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023-11-6",
+          "description": "OVIR-3D Rutgers University OVIR-3D: Open-Vocabulary 3D Instance Retrieval Without Training on 3D Data CoRL '23 github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 695249367,
+            "language": "Python",
+            "last_commit": "2023-11-10T19:16:29Z",
+            "owner": "shiyoung77",
+            "repo": "OVIR-3D",
+            "stars": 114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023-10-5",
+          "description": "Open-Fusion - Open-Fusion: Real-time Open-Vocabulary 3D Mapping and Queryable Scene Representation Arxiv github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 695848028,
+            "language": "Python",
+            "last_commit": "2024-08-19T18:53:59Z",
+            "owner": "UARK-AICV",
+            "repo": "OpenFusion",
+            "stars": 157
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023-9-22",
+          "description": "OV-3DDet HKUST CoDA: Collaborative Novel Box Discovery and Cross-modal Alignment for Open-vocabulary 3D Object Detection NeurIPS '23 github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 700636892,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-05-28T09:26:19Z",
+            "owner": "yangcaoai",
+            "repo": "CoDA_NeurIPS2023",
+            "stars": 224
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023-6-7",
+          "description": "Contrastive Lift Oxford-VGG Contrastive Lift: 3D Object Instance Segmentation by Slow-Fast Contrastive Fusion NeurIPS '23 github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 686105365,
+            "language": "Python",
+            "last_commit": "2023-11-03T14:22:46Z",
+            "owner": "yashbhalgat",
+            "repo": "Contrastive-Lift",
+            "stars": 73
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023-5-23",
+          "description": "3D-OVS NTU Weakly Supervised 3D Open-vocabulary Segmentation NeurIPS '23 github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 644423100,
+            "language": "Python",
+            "last_commit": "2026-05-05T17:57:11Z",
+            "owner": "Kunhao-Liu",
+            "repo": "3D-OVS",
+            "stars": 127
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023-4-12",
+          "description": "3D-VQA ETH CLIP-Guided Vision-Language Pre-training for Question Answering in 3D Scenes CVPRW '23 github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 627011915,
+            "language": "Python",
+            "last_commit": "2023-09-27T01:21:30Z",
+            "owner": "AlexDelitzas",
+            "repo": "3D-VQA",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023-3-20",
+          "description": "CG3D JHU CLIP goes 3D: Leveraging Prompt Tuning for Language Grounded 3D Recognition Arxiv github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 613536529,
+            "language": "Python",
+            "last_commit": "2023-05-01T16:11:06Z",
+            "owner": "deeptibhegde",
+            "repo": "CLIP-goes-3D",
+            "stars": 241
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023-3-16",
+          "description": "LERF UC Berkeley LERF: Language Embedded Radiance Fields ICCV '23 github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 623572668,
+            "language": "Python",
+            "last_commit": "2024-07-09T01:16:29Z",
+            "owner": "kerrj",
+            "repo": "lerf",
+            "stars": 732
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023-1-12",
+          "description": "CLIP2Scene HKU CLIP2Scene: Towards Label-efficient 3D Scene Understanding by CLIP CVPR '23 github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 618278085,
+            "language": "Python",
+            "last_commit": "2023-07-05T13:45:22Z",
+            "owner": "runnanchen",
+            "repo": "CLIP2Scene",
+            "stars": 187
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022-11-29",
+          "description": "PLA HKU PLA: Language-Driven Open-Vocabulary 3D Scene Understanding CVPR '23 github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 571885326,
+            "language": "Python",
+            "last_commit": "2024-06-28T09:56:02Z",
+            "owner": "CVMI-Lab",
+            "repo": "PLA",
+            "stars": 300
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022-11-28",
+          "description": "OpenScene ETHz OpenScene: 3D Scene Understanding with Open Vocabularies CVPR '23 github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 615653374,
+            "language": "Python",
+            "last_commit": "2023-10-27T15:57:18Z",
+            "owner": "pengsongyou",
+            "repo": "openscene",
+            "stars": 846
+          }
+        }
+      ],
+      "title": "3D Understanding via other Foundation Models"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "2025-11-07",
+          "description": "Omni-View PKU Omni-View: Unlocking How Generation Facilitates Understanding in Unified 3D Model based on Multiview images ICLR 2026 github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1115068236,
+            "language": "Python",
+            "last_commit": "2026-01-27T15:20:39Z",
+            "owner": "ATH-MaaS",
+            "repo": "Omni-View",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2025-08-16",
+          "description": "UniUGG FDU UniUGG: Unified 3D Understanding and Generation via Geometric-Semantic Encoding ICLR 2026 github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1035913630,
+            "language": "Python",
+            "last_commit": "2026-07-16T12:20:45Z",
+            "owner": "fudan-zvg",
+            "repo": "UniUGG",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023-11-29",
+          "description": "ShapeGPT Fudan University ShapeGPT: 3D Shape Generation with A Unified Multi-modal Language Model Arxiv github Arxiv github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 725423865,
+            "language": null,
+            "last_commit": "2023-12-01T12:48:58Z",
+            "owner": "OpenShapeLab",
+            "repo": "ShapeGPT",
+            "stars": 101
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023-9-20",
+          "description": "DreamLLM MEGVII DreamLLM: Synergistic Multimodal Comprehension and Creation Arxiv github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 693831760,
+            "language": "Python",
+            "last_commit": "2024-12-02T05:26:40Z",
+            "owner": "RunpeiDong",
+            "repo": "DreamLLM",
+            "stars": 462
+          }
+        }
+      ],
+      "title": "3D Generation"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "2023-12-05",
+          "description": "NaviLLM CUHK Towards Learning a Generalist Model for Embodied Navigation CVPR '24 project",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 724482382,
+            "language": "Python",
+            "last_commit": "2024-06-18T08:27:50Z",
+            "owner": "zd11024",
+            "repo": "NaviLLM",
+            "stars": 240
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023-11-27",
+          "description": "Dobb-E NYU On Bringing Robots Home Arxiv github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 723896616,
+            "language": "G-code",
+            "last_commit": "2024-10-15T17:52:03Z",
+            "owner": "notmahi",
+            "repo": "dobb-e",
+            "stars": 621
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023-11-26",
+          "description": "STEVE ZJU See and Think: Embodied Agent in Virtual Environment Arxiv github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 658715969,
+            "language": null,
+            "last_commit": "2023-12-27T03:48:56Z",
+            "owner": "wenhaochai",
+            "repo": "STEVE",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023-11-18",
+          "description": "LEO BIGAI An Embodied Generalist Agent in 3D World ICML '24 github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 716994089,
+            "language": "Python",
+            "last_commit": "2025-04-20T11:14:46Z",
+            "owner": "embodied-generalist",
+            "repo": "embodied-generalist",
+            "stars": 488
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023-9-14",
+          "description": "UniHSI Shanghai AI Lab Unified Human-Scene Interaction via Prompted Chain-of-Contacts Arxiv github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 679566511,
+            "language": "Python",
+            "last_commit": "2025-07-15T06:43:56Z",
+            "owner": "InternRobotics",
+            "repo": "UniHSI",
+            "stars": 247
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023-7-12",
+          "description": "VoxPoser Stanford VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models Arxiv github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 713152194,
+            "language": "Python",
+            "last_commit": "2025-02-20T05:53:42Z",
+            "owner": "huangwl18",
+            "repo": "VoxPoser",
+            "stars": 832
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022-12-8",
+          "description": "LLM-Planner The Ohio State University LLM-Planner: Few-Shot Grounded Planning for Embodied Agents with Large Language Models ICCV '23 github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 665773800,
+            "language": "C",
+            "last_commit": "2025-03-26T07:25:16Z",
+            "owner": "OSU-NLP-Group",
+            "repo": "LLM-Planner",
+            "stars": 227
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022-10-11",
+          "description": "CLIP-Fields NYU, Meta CLIP-Fields: Weakly Supervised Semantic Fields for Robotic Memory RSS '23 github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 537105513,
+            "language": "Python",
+            "last_commit": "2024-03-02T23:09:22Z",
+            "owner": "notmahi",
+            "repo": "clip-fields",
+            "stars": 190
+          }
+        }
+      ],
+      "title": "3D Embodied Agent"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "2025-06-09",
+          "description": "SpaCE-10 SJTU SpaCE-10: A Comprehensive Benchmark for Multimodal Large Language Models in Compositional Spatial Intelligence Arxiv project",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 996636741,
+            "language": "Python",
+            "last_commit": "2026-01-26T14:25:09Z",
+            "owner": "VisionXLab",
+            "repo": "SpaCE-10",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2025-05-01",
+          "description": "Hypo3D Imperial Hypo3D: Exploring Hypothetical Reasoning in 3D ICML'25 project",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 921145160,
+            "language": "Python",
+            "last_commit": "2025-07-17T16:29:50Z",
+            "owner": "MatchLab-Imperial",
+            "repo": "Hypo3D",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024-06-13",
+          "description": "MMScan Shanghai AI Lab MMScan: A Multi-Modal 3D Scene Dataset with Hierarchical Grounded Language Annotations Arxiv github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 730068722,
+            "language": "Python",
+            "last_commit": "2025-06-13T05:46:36Z",
+            "owner": "InternRobotics",
+            "repo": "EmbodiedScan",
+            "stars": 678
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024-06-03",
+          "description": "SpatialRGPT-Bench UCSD SpatialRGPT: Grounded Spatial Reasoning in Vision Language Models NeurIPS '24 github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 869405201,
+            "language": "Python",
+            "last_commit": "2024-12-14T23:41:03Z",
+            "owner": "AnjieCheng",
+            "repo": "SpatialRGPT",
+            "stars": 337
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024-1-18",
+          "description": "SceneVerse BIGAI SceneVerse: Scaling 3D Vision-Language Learning for Grounded Scene Understanding ECCV '24 github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 743487098,
+            "language": "Python",
+            "last_commit": "2025-03-19T06:42:30Z",
+            "owner": "scene-verse",
+            "repo": "SceneVerse",
+            "stars": 290
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023-12-26",
+          "description": "EmbodiedScan Shanghai AI Lab EmbodiedScan: A Holistic Multi-Modal 3D Perception Suite Towards Embodied AI Arxiv github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 730068722,
+            "language": "Python",
+            "last_commit": "2025-06-13T05:46:36Z",
+            "owner": "InternRobotics",
+            "repo": "EmbodiedScan",
+            "stars": 678
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023-12-17",
+          "description": "M3DBench Fudan University M3DBench: Let's Instruct Large Models with Multi-modal 3D Prompts Arxiv github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 728964794,
+            "language": "Python",
+            "last_commit": "2024-10-01T21:18:33Z",
+            "owner": "OpenM3D",
+            "repo": "M3DBench",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023-11-29",
+          "description": "- DeepMind Leveraging VLM-Based Pipelines to Annotate 3D Objects ICML '24 github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 712986859,
+            "language": null,
+            "last_commit": "2023-12-16T14:16:37Z",
+            "owner": "google-deepmind",
+            "repo": "objaverse_annotations",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023-09-14",
+          "description": "CrossCoherence UniBO Looking at words and points with attention: a benchmark for text-to-shape coherence ICCV '23 github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 708045911,
+            "language": null,
+            "last_commit": "2023-11-09T15:56:59Z",
+            "owner": "AndreAmaduzzi",
+            "repo": "CrossCoherence",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022-10-14",
+          "description": "SQA3D BIGAI SQA3D: Situated Question Answering in 3D Scenes ICLR '23 github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 558831479,
+            "language": "Python",
+            "last_commit": "2023-10-13T06:14:57Z",
+            "owner": "SilongYong",
+            "repo": "SQA3D",
+            "stars": 172
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022-09-24",
+          "description": "FE-3DGQA Beihang University Towards Explainable 3D Grounded Visual Question Answering: A New Benchmark and Strong Baseline TCSVT github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 483194455,
+            "language": "Python",
+            "last_commit": "2023-01-29T02:06:07Z",
+            "owner": "zlccccc",
+            "repo": "3DVL_Codebase",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2021-12-20",
+          "description": "ScanQA RIKEN AIP ScanQA: 3D Question Answering for Spatial Scene Understanding CVPR '23 github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 469148527,
+            "language": "Python",
+            "last_commit": "2023-08-23T08:26:23Z",
+            "owner": "ATR-DBI",
+            "repo": "ScanQA",
+            "stars": 163
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2020-12-3",
+          "description": "Scan2Cap TUM Scan2Cap: Context-aware Dense Captioning in RGB-D Scans CVPR '21 github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 319349012,
+            "language": "Python",
+            "last_commit": "2022-09-06T09:05:42Z",
+            "owner": "daveredrum",
+            "repo": "Scan2Cap",
+            "stars": 108
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2020-8-23",
+          "description": "ReferIt3D Stanford ReferIt3D: Neural Listeners for Fine-Grained 3D Object Identification in Real-World Scenes ECCV '20 github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 289710693,
+            "language": "C++",
+            "last_commit": "2021-06-29T01:41:58Z",
+            "owner": "referit3d",
+            "repo": "referit3d",
+            "stars": 141
+          }
+        }
+      ],
+      "title": "3D Benchmarks"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-23T19:35:49.957Z",
+    "last_updated": "2026-08-24T14:03:04.239Z",
     "original_repository": "ActiveVisionLab/Awesome-LLM-3D",
     "original_repository_id": 731892810,
     "original_repository_sha": "f01b39ba48d980a910791407ec5d626acf6005ff",
