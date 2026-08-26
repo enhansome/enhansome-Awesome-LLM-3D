@@ -381,7 +381,7 @@
             "last_commit": "2024-06-06T19:14:00Z",
             "owner": "UMass-Embodied-AGI",
             "repo": "3D-LLM",
-            "stars": 1211
+            "stars": 1212
           }
         },
         {
@@ -789,7 +789,7 @@
             "last_commit": "2025-02-20T05:53:42Z",
             "owner": "huangwl18",
             "repo": "VoxPoser",
-            "stars": 833
+            "stars": 832
           }
         },
         {
@@ -1043,7 +1043,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T19:46:32.794Z",
+    "last_updated": "2026-08-26T22:08:59.348Z",
     "original_repository": "ActiveVisionLab/Awesome-LLM-3D",
     "original_repository_id": 731892810,
     "original_repository_sha": "f01b39ba48d980a910791407ec5d626acf6005ff",
