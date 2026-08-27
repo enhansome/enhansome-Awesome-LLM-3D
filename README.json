@@ -627,7 +627,7 @@
             "last_commit": "2023-10-27T15:57:18Z",
             "owner": "pengsongyou",
             "repo": "openscene",
-            "stars": 846
+            "stars": 847
           }
         }
       ],
@@ -789,7 +789,7 @@
             "last_commit": "2025-02-20T05:53:42Z",
             "owner": "huangwl18",
             "repo": "VoxPoser",
-            "stars": 832
+            "stars": 833
           }
         },
         {
@@ -1043,9 +1043,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T22:08:59.348Z",
-    "original_repository": "ActiveVisionLab/Awesome-LLM-3D",
-    "original_repository_id": 731892810,
+    "last_updated": "2026-08-27T11:23:14.504Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 731892810,
+      "language": null,
+      "last_commit": "2026-04-16T16:28:04Z",
+      "owner": "ActiveVisionLab",
+      "repo": "Awesome-LLM-3D",
+      "stars": 2254
+    },
     "original_repository_sha": "f01b39ba48d980a910791407ec5d626acf6005ff",
     "enhanced_repository": "enhansome/enhansome-Awesome-LLM-3D",
     "enhanced_repository_description": null,
