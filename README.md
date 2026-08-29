@@ -86,7 +86,7 @@ This is an active repository, you can watch for following the latest advances. I
 | 2023-11-26 |      ZSVG3D      |         CUHK(SZ)         | [Visual Programming for Zero-shot Open-Vocabulary 3D Visual Grounding](https://arxiv.org/pdf/2311.15383.pdf)                                                         |       Arxiv       |                                      [project](https://curryyuan.github.io/ZSVG3D/)                                     | Arxiv |
 | 2023-11-18 |        LEO       |           BIGAI          | [An Embodied Generalist Agent in 3D World](https://arxiv.org/pdf/2311.12871.pdf)                                                                                     |      ICML '24     |     [github](https://github.com/embodied-generalist/embodied-generalist) ⭐ 488 \| 🐛 0 \| 🌐 Python \| 📅 2025-04-20    |       |
 | 2023-10-14 |     JM3D-LLM     |     Xiamen University    | [JM3D & JM3D-LLM: Elevating 3D Representation with Joint Multi-modal Cues](https://arxiv.org/pdf/2310.09503v2.pdf)                                                   |     ACM MM '23    |                   [github](https://github.com/mr-neko/jm3d) ⭐ 31 \| 🐛 1 \| 🌐 Python \| 📅 2026-04-08                  |       |
-| 2023-10-10 |       Uni3D      |           BAAI           | [Uni3D: Exploring Unified 3D Representation at Scale](https://arxiv.org/abs/2310.06773)                                                                              |      ICLR '24     |               [project](https://github.com/baaivision/Uni3D) ⭐ 684 \| 🐛 23 \| 🌐 Python \| 📅 2026-01-12               |       |
+| 2023-10-10 |       Uni3D      |           BAAI           | [Uni3D: Exploring Unified 3D Representation at Scale](https://arxiv.org/abs/2310.06773)                                                                              |      ICLR '24     |               [project](https://github.com/baaivision/Uni3D) ⭐ 685 \| 🐛 23 \| 🌐 Python \| 📅 2026-01-12               |       |
 |  2023-9-27 |         -        |           KAUST          | [Zero-Shot 3D Shape Correspondence](https://arxiv.org/abs/2306.03253)                                                                                                | Siggraph Asia '23 |                                                            -                                                            |       |
 |  2023-9-21 |   LLM-Grounder   |          U-Mich          | [LLM-Grounder: Open-Vocabulary 3D Visual Grounding with Large Language Model as an Agent](https://arxiv.org/pdf/2309.12311.pdf)                                      |      ICRA '24     |            [github](https://github.com/sled-group/chat-with-nerf) ⭐ 323 \| 🐛 3 \| 🌐 Python \| 📅 2025-10-10           |       |
 |  2023-9-1  |    Point-Bind    |           CUHK           | [Point-Bind & Point-LLM: Aligning Point Cloud with Multi-modality for 3D Understanding, Generation, and Instruction Following](https://arxiv.org/pdf/2309.00615.pdf) |       Arxiv       |         [github](https://github.com/ZiyuGuo99/Point-Bind_Point-LLM) ⭐ 464 \| 🐛 12 \| 🌐 Python \| 📅 2023-12-09        |       |
@@ -249,7 +249,7 @@ If you find this repository useful, please consider citing this paper:
 
 ## Acknowledgement
 
-This repo is inspired by [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM?tab=readme-ov-file#other-awesome-lists) ⭐ 27,297 | 🐛 443 | 📅 2025-07-31
+This repo is inspired by [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM?tab=readme-ov-file#other-awesome-lists) ⭐ 27,302 | 🐛 443 | 📅 2025-07-31
 
 ***
 
