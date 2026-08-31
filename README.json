@@ -507,7 +507,7 @@
             "open_issues": 12,
             "owner": "ZiyuGuo99",
             "repo": "Point-Bind_Point-LLM",
-            "stars": 464,
+            "stars": 465,
             "topics": []
           },
           "first_seen": "2026-08-29T02:12:45.918Z"
@@ -583,7 +583,7 @@
             "open_issues": 31,
             "owner": "UMass-Embodied-AGI",
             "repo": "3D-LLM",
-            "stars": 1212,
+            "stars": 1213,
             "topics": []
           },
           "first_seen": "2026-08-29T02:12:45.918Z"
@@ -652,7 +652,7 @@
             "open_issues": 0,
             "owner": "VIPL-VSU",
             "repo": "OV3D-CG",
-            "stars": 12,
+            "stars": 13,
             "topics": []
           },
           "first_seen": "2026-08-29T02:12:45.918Z"
@@ -1650,7 +1650,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T21:54:29.492Z",
+    "last_updated": "2026-08-31T23:12:41.363Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-LLM-3D: a curated list of Multi-modal Large Language Model in 3D world  Resources",
