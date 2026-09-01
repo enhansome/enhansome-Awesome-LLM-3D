@@ -43,9 +43,9 @@ This is an active repository, you can watch for following the latest advances. I
 
 |    Date    |     Keywords     |     Institute (first)    | Paper                                                                                                                                                                |    Publication    |                                                          Others                                                         |       |
 | :--------: | :--------------: | :----------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------: | :---------------------------------------------------------------------------------------------------------------------: | ----- |
-| 2026-03-07 |      3D-RFT      |           BIGAI          | [3D-RFT: Reinforcement Fine-Tuning for Video-based 3D Scene Understanding](https://arxiv.org/abs/2603.04976)                                                         |       Arxiv       |                   [github](https://github.com/3D-RFT/3D-RFT) ⭐ 9 \| 🐛 0 \| 🌐 Python \| 📅 2026-08-09                  |       |
+| 2026-03-07 |      3D-RFT      |           BIGAI          | [3D-RFT: Reinforcement Fine-Tuning for Video-based 3D Scene Understanding](https://arxiv.org/abs/2603.04976)                                                         |       Arxiv       |                  [github](https://github.com/3D-RFT/3D-RFT) ⭐ 10 \| 🐛 0 \| 🌐 Python \| 📅 2026-08-09                  |       |
 | 2025-12-05 | Fast Scenescript |      Qualcomm / UvA      | [Fast SceneScript: Fast and Accurate Language-Based 3D Scene Understanding via Multi-Token Prediction](https://arxiv.org/abs/2512.05597)                             |      CVPR '26     |                                                            -                                                            |       |
-| 2025-11-27 | G<sup>2</sup>VLM |      Shanghai AI Lab     | [G<sup>2</sup>VLM: Geometry Grounded Vision Language Model with Unified 3D Reconstruction and Spatial Reasoning](https://arxiv.org/pdf/2511.21688)                   |       Arxiv       |              [github](https://github.com/InternRobotics/G2VLM) ⭐ 352 \| 🐛 11 \| 🌐 Python \| 📅 2026-04-18             |       |
+| 2025-11-27 | G<sup>2</sup>VLM |      Shanghai AI Lab     | [G<sup>2</sup>VLM: Geometry Grounded Vision Language Model with Unified 3D Reconstruction and Spatial Reasoning](https://arxiv.org/pdf/2511.21688)                   |       Arxiv       |              [github](https://github.com/InternRobotics/G2VLM) ⭐ 353 \| 🐛 11 \| 🌐 Python \| 📅 2026-04-18             |       |
 | 2025-11-07 |     Omni-View    |            PKU           | [Omni-View: Unlocking How Generation Facilitates Understanding in Unified 3D Model based on Multiview images](https://arxiv.org/abs/2511.07222)                      |     ICLR 2026     |                [github](https://github.com/AIDC-AI/Omni-View) ⭐ 56 \| 🐛 1 \| 🌐 Python \| 📅 2026-01-27                |       |
 | 2025-08-16 |      UniUGG      |            FDU           | [UniUGG: Unified 3D Understanding and Generation via Geometric-Semantic Encoding](https://arxiv.org/abs/2508.11952)                                                  |     ICLR 2026     |                 [github](https://github.com/fudan-zvg/UniUGG) ⭐ 63 \| 🐛 2 \| 🌐 Python \| 📅 2026-07-16                |       |
 | 2025-07-31 |       3D-R1      |            PKU           | [3D-R1: Enhancing Reasoning in 3D VLMs for Unified Scene Understanding](https://arxiv.org/abs/2507.23478)                                                            |       Arxiv       |                                     [project](https://aigeeksgroup.github.io/3D-R1/)                                    |       |
@@ -249,8 +249,8 @@ If you find this repository useful, please consider citing this paper:
 
 ## Acknowledgement
 
-This repo is inspired by [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM?tab=readme-ov-file#other-awesome-lists) ⭐ 27,308 | 🐛 444 | 📅 2025-07-31
+This repo is inspired by [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM?tab=readme-ov-file#other-awesome-lists) ⭐ 27,309 | 🐛 444 | 📅 2025-07-31
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._

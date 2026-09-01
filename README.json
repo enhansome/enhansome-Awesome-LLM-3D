@@ -67,7 +67,7 @@
             "open_issues": 0,
             "owner": "3D-RFT",
             "repo": "3D-RFT",
-            "stars": 9,
+            "stars": 10,
             "topics": []
           },
           "first_seen": "2026-08-29T02:12:45.918Z"
@@ -88,7 +88,7 @@
             "open_issues": 11,
             "owner": "InternRobotics",
             "repo": "G2VLM",
-            "stars": 352,
+            "stars": 353,
             "topics": [
               "3d-llms",
               "3d-reconstruction",
@@ -1650,7 +1650,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T23:12:41.363Z",
+    "last_updated": "2026-09-01T21:47:52.596Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-LLM-3D: a curated list of Multi-modal Large Language Model in 3D world  Resources",
