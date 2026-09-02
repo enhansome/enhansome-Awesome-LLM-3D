@@ -334,7 +334,7 @@
             "open_issues": 12,
             "owner": "ZzZZCHS",
             "repo": "Chat-Scene",
-            "stars": 217,
+            "stars": 218,
             "topics": []
           },
           "first_seen": "2026-08-29T02:12:45.918Z"
@@ -528,7 +528,7 @@
             "open_issues": 9,
             "owner": "InternRobotics",
             "repo": "PointLLM",
-            "stars": 1051,
+            "stars": 1052,
             "topics": [
               "3d",
               "chatbot",
@@ -900,7 +900,7 @@
             "open_issues": 34,
             "owner": "kerrj",
             "repo": "lerf",
-            "stars": 732,
+            "stars": 733,
             "topics": []
           },
           "first_seen": "2026-08-29T02:12:45.918Z"
@@ -1480,7 +1480,7 @@
             "id": 712986859,
             "language": null,
             "license": "Apache-2.0",
-            "last_commit": "2023-12-16T14:16:37Z",
+            "last_commit": "2026-09-02T13:18:34Z",
             "open_issues": 1,
             "owner": "google-deepmind",
             "repo": "objaverse_annotations",
@@ -1650,7 +1650,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T21:47:52.596Z",
+    "last_updated": "2026-09-02T21:50:23.742Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-LLM-3D: a curated list of Multi-modal Large Language Model in 3D world  Resources",
