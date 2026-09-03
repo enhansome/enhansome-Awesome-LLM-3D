@@ -247,7 +247,7 @@
             "open_issues": 10,
             "owner": "LaVi-Lab",
             "repo": "Video-3D-LLM",
-            "stars": 221,
+            "stars": 222,
             "topics": []
           },
           "first_seen": "2026-08-29T02:12:45.918Z"
@@ -412,7 +412,7 @@
             "open_issues": 0,
             "owner": "embodied-generalist",
             "repo": "embodied-generalist",
-            "stars": 488,
+            "stars": 489,
             "topics": []
           },
           "first_seen": "2026-08-29T02:12:45.918Z"
@@ -528,7 +528,7 @@
             "open_issues": 9,
             "owner": "InternRobotics",
             "repo": "PointLLM",
-            "stars": 1052,
+            "stars": 1053,
             "topics": [
               "3d",
               "chatbot",
@@ -900,7 +900,7 @@
             "open_issues": 34,
             "owner": "kerrj",
             "repo": "lerf",
-            "stars": 733,
+            "stars": 732,
             "topics": []
           },
           "first_seen": "2026-08-29T02:12:45.918Z"
@@ -1187,7 +1187,7 @@
             "open_issues": 0,
             "owner": "embodied-generalist",
             "repo": "embodied-generalist",
-            "stars": 488,
+            "stars": 489,
             "topics": []
           },
           "first_seen": "2026-08-29T02:12:45.918Z"
@@ -1234,7 +1234,7 @@
             "open_issues": 32,
             "owner": "huangwl18",
             "repo": "VoxPoser",
-            "stars": 833,
+            "stars": 834,
             "topics": [
               "embodied-ai",
               "foundation-models",
@@ -1650,7 +1650,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T21:50:23.742Z",
+    "last_updated": "2026-09-03T21:43:31.483Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-LLM-3D: a curated list of Multi-modal Large Language Model in 3D world  Resources",
@@ -1662,7 +1662,7 @@
       "open_issues": 7,
       "owner": "ActiveVisionLab",
       "repo": "Awesome-LLM-3D",
-      "stars": 2254,
+      "stars": 2253,
       "topics": []
     },
     "original_repository_sha": "f01b39ba48d980a910791407ec5d626acf6005ff",
