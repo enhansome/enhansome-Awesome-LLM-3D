@@ -93,7 +93,7 @@ This is an active repository, you can watch for following the latest advances. I
 |  2023-8-31 |     PointLLM     |           CUHK           | [PointLLM: Empowering Large Language Models to Understand Point Clouds](https://arxiv.org/pdf/2308.16911.pdf)                                                        |      ECCV '24     |             [github](https://github.com/OpenRobotLab/PointLLM) ⭐ 1,053 \| 🐛 9 \| 🌐 Python \| 📅 2026-05-15            |       |
 |  2023-8-17 |      Chat-3D     |            ZJU           | [Chat-3D: Data-efficiently Tuning Large Language Model for Universal Dialogue of 3D Scenes](https://arxiv.org/pdf/2308.08769v1.pdf)                                  |       Arxiv       |                 [github](https://github.com/Chat-3D/Chat-3D) ⭐ 59 \| 🐛 1 \| 🌐 Python \| 📅 2024-03-28                 |       |
 |  2023-8-8  |     3D-VisTA     |           BIGAI          | [3D-VisTA: Pre-trained Transformer for 3D Vision and Text Alignment](https://Arxiv.org/abs/2308.04352)                                                               |      ICCV '23     |                                                        [github]()                                                       |       |
-|  2023-7-24 |      3D-LLM      |           UCLA           | [3D-LLM: Injecting the 3D World into Large Language Models](https://arxiv.org/pdf/2307.12981.pdf)                                                                    |    NeurIPS '23    |        [github](https://github.com/UMass-Foundation-Model/3D-LLM) ⭐ 1,213 \| 🐛 31 \| 🌐 Python \| 📅 2024-06-06        |       |
+|  2023-7-24 |      3D-LLM      |           UCLA           | [3D-LLM: Injecting the 3D World into Large Language Models](https://arxiv.org/pdf/2307.12981.pdf)                                                                    |    NeurIPS '23    |        [github](https://github.com/UMass-Foundation-Model/3D-LLM) ⭐ 1,214 \| 🐛 31 \| 🌐 Python \| 📅 2024-06-06        |       |
 |  2023-3-29 |     ViewRefer    |           CUHK           | [ViewRefer: Grasp the Multi-view Knowledge for 3D Visual Grounding](https://arxiv.org/pdf/2303.16894.pdf)                                                            |      ICCV '23     |              [github](https://github.com/Ivan-Tang-3D/ViewRefer3D) ⭐ 60 \| 🐛 2 \| 🌐 C++ \| 📅 2024-04-18              |       |
 |  2022-9-12 |         -        |            MIT           | [Leveraging Large (Visual) Language Models for Robot 3D Scene Understanding](https://arxiv.org/pdf/2209.05629.pdf)                                                   |       Arxiv       |         [github](https://github.com/MIT-SPARK/llm_scene_understanding) ⭐ 90 \| 🐛 3 \| 🌐 HTML \| 📅 2023-06-13         |       |
 
@@ -249,8 +249,8 @@ If you find this repository useful, please consider citing this paper:
 
 ## Acknowledgement
 
-This repo is inspired by [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM?tab=readme-ov-file#other-awesome-lists) ⭐ 27,320 | 🐛 444 | 📅 2025-07-31
+This repo is inspired by [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM?tab=readme-ov-file#other-awesome-lists) ⭐ 27,323 | 🐛 448 | 📅 2025-07-31
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
