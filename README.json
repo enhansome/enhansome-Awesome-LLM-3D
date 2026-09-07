@@ -355,7 +355,7 @@
             "open_issues": 19,
             "owner": "Pointcept",
             "repo": "GPT4Point",
-            "stars": 446,
+            "stars": 447,
             "topics": [
               "3d-generation",
               "llm",
@@ -1359,7 +1359,7 @@
             "open_issues": 20,
             "owner": "InternRobotics",
             "repo": "EmbodiedScan",
-            "stars": 678,
+            "stars": 679,
             "topics": [
               "3d-vision",
               "computer-vision",
@@ -1430,7 +1430,7 @@
             "open_issues": 20,
             "owner": "InternRobotics",
             "repo": "EmbodiedScan",
-            "stars": 678,
+            "stars": 679,
             "topics": [
               "3d-vision",
               "computer-vision",
@@ -1650,7 +1650,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T21:21:46.740Z",
+    "last_updated": "2026-09-07T22:01:51.741Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-LLM-3D: a curated list of Multi-modal Large Language Model in 3D world  Resources",
@@ -1662,7 +1662,7 @@
       "open_issues": 7,
       "owner": "ActiveVisionLab",
       "repo": "Awesome-LLM-3D",
-      "stars": 2255,
+      "stars": 2256,
       "topics": []
     },
     "original_repository_sha": "f01b39ba48d980a910791407ec5d626acf6005ff",
