@@ -179,7 +179,7 @@
             "open_issues": 4,
             "owner": "hanxunyu",
             "repo": "Inst3D-LMM",
-            "stars": 135,
+            "stars": 134,
             "topics": [
               "3d-llms",
               "embodied-agent",
@@ -1650,7 +1650,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T21:52:14.833Z",
+    "last_updated": "2026-09-09T21:42:43.838Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-LLM-3D: a curated list of Multi-modal Large Language Model in 3D world  Resources",
@@ -1662,7 +1662,7 @@
       "open_issues": 7,
       "owner": "ActiveVisionLab",
       "repo": "Awesome-LLM-3D",
-      "stars": 2256,
+      "stars": 2257,
       "topics": []
     },
     "original_repository_sha": "f01b39ba48d980a910791407ec5d626acf6005ff",

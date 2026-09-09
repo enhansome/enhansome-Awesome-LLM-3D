@@ -59,7 +59,7 @@ This is an active repository, you can watch for following the latest advances. I
 | 2025-04-24 |     3D-LLaVA     |       U of Adelaide      | [3D-LLaVA: Towards Generalist 3D LMMs with Omni Superpoint Transformer](https://arxiv.org/pdf/2501.01163)                                                            |      CVPR '25     |              [github](https://github.com/djiajunustc/3D-LLaVA) ⭐ 101 \| 🐛 11 \| 🌐 Python \| 📅 2025-05-26             |       |
 | 2025-04-03 |      Ross3D      |           CASIA          | [Ross3D: Reconstructive Visual Instruction Tuning with 3D-Awareness](https://arxiv.org/pdf/2504.01901)                                                               |       Arxiv       |                                   [project](https://haochen-wang409.github.io/ross3d/)                                  |       |
 | 2025-03-08 |     SplatTalk    |            GIT           | [SplatTalk: 3D VQA with Gaussian Splatting](https://arxiv.org/pdf/2503.06271)                                                                                        |       Arxiv       |                                                        [github]()                                                       |       |
-| 2025-03-01 |    Inst3D-LMM    |            ZJU           | [Inst3D-LMM: Instance-Aware 3D Scene Understanding with Multi-modal Instruction Tuning](https://arxiv.org/abs/2503.00513)                                            |      CVPR '25     |               [github](https://github.com/hanxunyu/Inst3D-LMM) ⭐ 135 \| 🐛 4 \| 🌐 Python \| 📅 2026-01-30              |       |
+| 2025-03-01 |    Inst3D-LMM    |            ZJU           | [Inst3D-LMM: Instance-Aware 3D Scene Understanding with Multi-modal Instruction Tuning](https://arxiv.org/abs/2503.00513)                                            |      CVPR '25     |               [github](https://github.com/hanxunyu/Inst3D-LMM) ⭐ 134 \| 🐛 4 \| 🌐 Python \| 📅 2026-01-30              |       |
 | 2025-02-13 |       ENEL       |         SH AILab         | [ENEL: Exploring the Potential of Encoder-free Architectures in 3D LMMs](https://arxiv.org/pdf/2502.09620v1)                                                         |       Arxiv       | [project](https://github.com/Ivan-Tang-3D/ENEL/tree/main?tab=readme-ov-file) ⭐ 11 \| 🐛 3 \| 🌐 Python \| 📅 2026-01-26 |       |
 | 2025-02-02 |     LSceneLLM    |           SCUT           | [LSceneLLM: Enhancing Large 3D Scene Understanding Using Adaptive Visual Preferences](https://arxiv.org/pdf/2412.01292)                                              |      CVPR '25     |                [project](https://github.com/Hoyyyaard/LSceneLLM) ⭐ 74 \| 🐛 1 \| 🌐 C++ \| 📅 2025-03-29                |       |
 | 2025-01-02 |     GPT4Scene    |            HKU           | [GPT4Scene: Understand 3D Scenes from Videos with Vision-Language Models](https://arxiv.org/pdf/2501.01428)                                                          |       Arxiv       |                                         [project](https://gpt4scene.github.io/)                                         |       |
@@ -249,8 +249,8 @@ If you find this repository useful, please consider citing this paper:
 
 ## Acknowledgement
 
-This repo is inspired by [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM?tab=readme-ov-file#other-awesome-lists) ⭐ 27,339 | 🐛 450 | 📅 2025-07-31
+This repo is inspired by [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM?tab=readme-ov-file#other-awesome-lists) ⭐ 27,348 | 🐛 452 | 📅 2025-07-31
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
