@@ -969,7 +969,7 @@
             "open_issues": 18,
             "owner": "pengsongyou",
             "repo": "openscene",
-            "stars": 848,
+            "stars": 849,
             "topics": [
               "3d-scene-understanding",
               "clip",
@@ -1650,7 +1650,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T21:38:53.907Z",
+    "last_updated": "2026-09-11T21:43:46.788Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-LLM-3D: a curated list of Multi-modal Large Language Model in 3D world  Resources",
