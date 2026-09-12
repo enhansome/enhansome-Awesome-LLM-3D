@@ -64,7 +64,7 @@ This is an active repository, you can watch for following the latest advances. I
 | 2025-02-02 |     LSceneLLM    |           SCUT           | [LSceneLLM: Enhancing Large 3D Scene Understanding Using Adaptive Visual Preferences](https://arxiv.org/pdf/2412.01292)                                              |      CVPR '25     |                [project](https://github.com/Hoyyyaard/LSceneLLM) ⭐ 74 \| 🐛 1 \| 🌐 C++ \| 📅 2025-03-29                |       |
 | 2025-01-02 |     GPT4Scene    |            HKU           | [GPT4Scene: Understand 3D Scenes from Videos with Vision-Language Models](https://arxiv.org/pdf/2501.01428)                                                          |       Arxiv       |                                         [project](https://gpt4scene.github.io/)                                         |       |
 | 2024-12-05 |     SeeGround    |         HKUST(GZ)        | [SeeGround: See and Ground for Zero-Shot Open-Vocabulary 3D Visual Grounding](https://arxiv.org/abs/2412.04383)                                                      |      CVPR '25     |                                          [project](https://seeground.github.io)                                         |       |
-| 2024-12-03 |   Video-3D LLM   |           CUHK           | [Video-3D LLM: Learning Position-Aware Video Representation for 3D Scene Understanding](https://arxiv.org/abs/2412.00493)                                            |      CVPR '25     |             [project](https://github.com/LaVi-Lab/Video-3D-LLM) ⭐ 223 \| 🐛 10 \| 🌐 Python \| 📅 2025-06-04            |       |
+| 2024-12-03 |   Video-3D LLM   |           CUHK           | [Video-3D LLM: Learning Position-Aware Video Representation for 3D Scene Understanding](https://arxiv.org/abs/2412.00493)                                            |      CVPR '25     |             [project](https://github.com/LaVi-Lab/Video-3D-LLM) ⭐ 224 \| 🐛 10 \| 🌐 Python \| 📅 2025-06-04            |       |
 | 2024-11-29 |       PerLA      | Fondazione Bruno Kessler | [PerLA: Perceptive 3D Language Assistant](https://arxiv.org/abs/2411.19774)                                                                                          |      CVPR '25     |                                        [project](https://gfmei.github.io/PerLA/)                                        |       |
 | 2024-10-12 |    Situation3D   |           UIUC           | [Situational Awareness Matters in 3D Vision Language Reasoning](https://arxiv.org/abs/2406.07544)                                                                    |      CVPR '24     |                                    [project](https://yunzeman.github.io/situation3d/)                                   |       |
 | 2024-09-30 |      Robin3D     |            HKU           | [Robin3D: Improving 3D Large Language Model via Robust Instruction Tuning](https://arxiv.org/abs/2410.00255)                                                         |      ICCV '25     |                [github](https://github.com/WeitaiKang/Robin3D) ⭐ 71 \| 🐛 4 \| 🌐 Python \| 📅 2025-10-19               |       |
@@ -249,8 +249,8 @@ If you find this repository useful, please consider citing this paper:
 
 ## Acknowledgement
 
-This repo is inspired by [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM?tab=readme-ov-file#other-awesome-lists) ⭐ 27,355 | 🐛 451 | 📅 2025-07-31
+This repo is inspired by [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM?tab=readme-ov-file#other-awesome-lists) ⭐ 27,362 | 🐛 453 | 📅 2025-07-31
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
