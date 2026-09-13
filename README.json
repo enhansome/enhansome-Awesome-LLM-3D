@@ -745,7 +745,7 @@
             "open_issues": 5,
             "owner": "UARK-AICV",
             "repo": "OpenFusion",
-            "stars": 158,
+            "stars": 159,
             "topics": [
               "3d-reconstruction",
               "icra2024",
@@ -1650,7 +1650,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T21:26:47.566Z",
+    "last_updated": "2026-09-13T21:26:42.630Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-LLM-3D: a curated list of Multi-modal Large Language Model in 3D world  Resources",
