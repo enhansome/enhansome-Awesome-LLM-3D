@@ -528,7 +528,7 @@
             "open_issues": 9,
             "owner": "InternRobotics",
             "repo": "PointLLM",
-            "stars": 1054,
+            "stars": 1055,
             "topics": [
               "3d",
               "chatbot",
@@ -745,7 +745,7 @@
             "open_issues": 5,
             "owner": "UARK-AICV",
             "repo": "OpenFusion",
-            "stars": 158,
+            "stars": 159,
             "topics": [
               "3d-reconstruction",
               "icra2024",
@@ -1650,7 +1650,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T22:11:00.348Z",
+    "last_updated": "2026-09-17T22:10:26.332Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-LLM-3D: a curated list of Multi-modal Large Language Model in 3D world  Resources",
