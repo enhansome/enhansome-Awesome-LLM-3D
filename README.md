@@ -179,7 +179,7 @@ This is an active repository, you can watch for following the latest advances. I
 |  2023-9-14 |    UniHSI    |      Shanghai AI Lab      | [Unified Human-Scene Interaction via Prompted Chain-of-Contacts](https://arxiv.org/pdf/2309.07918.pdf)                                  |    Arxiv    |           [github](https://github.com/OpenRobotLab/UniHSI) ⭐ 247 \| 🐛 1 \| 🌐 Python \| 📅 2025-07-15           |
 |  2023-7-28 |     RT-2     |      Google-DeepMind      | [RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control](https://arxiv.org/pdf/2307.15818.pdf)                   |    Arxiv    |                                [github](https://robotics-transformer2.github.io/)                                |
 |  2023-7-12 |    SayPlan   |  QUT Centre for Robotics  | [SayPlan: Grounding Large Language Models using 3D Scene Graphs for Scalable Robot Task Planning](https://arxiv.org/pdf/2307.06135.pdf) |   CoRL '23  |                                       [github](https://sayplan.github.io/)                                       |
-|  2023-7-12 |   VoxPoser   |          Stanford         | [VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models](https://voxposer.github.io/voxposer.pdf)             |    Arxiv    |           [github](https://github.com/huangwl18/VoxPoser) ⭐ 836 \| 🐛 32 \| 🌐 Python \| 📅 2025-02-20           |
+|  2023-7-12 |   VoxPoser   |          Stanford         | [VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models](https://voxposer.github.io/voxposer.pdf)             |    Arxiv    |           [github](https://github.com/huangwl18/VoxPoser) ⭐ 837 \| 🐛 32 \| 🌐 Python \| 📅 2025-02-20           |
 | 2022-12-13 |     RT-1     |           Google          | [RT-1: Robotics Transformer for Real-World Control at Scale](https://robotics-transformer1.github.io/assets/rt1.pdf)                    |    Arxiv    |                                [github](https://robotics-transformer1.github.io/)                                |
 |  2022-12-8 |  LLM-Planner | The Ohio State University | [LLM-Planner: Few-Shot Grounded Planning for Embodied Agents with Large Language Models](https://arxiv.org/pdf/2212.04088.pdf)          |   ICCV '23  |          [github](https://github.com/OSU-NLP-Group/LLM-Planner/) ⭐ 227 \| 🐛 2 \| 🌐 C \| 📅 2025-03-26          |
 | 2022-10-11 |  CLIP-Fields |         NYU, Meta         | [CLIP-Fields: Weakly Supervised Semantic Fields for Robotic Memory](https://arxiv.org/pdf/2210.05663.pdf)                               |   RSS '23   |           [github](https://github.com/notmahi/clip-fields) ⭐ 190 \| 🐛 1 \| 🌐 Python \| 📅 2024-03-02           |
@@ -249,8 +249,8 @@ If you find this repository useful, please consider citing this paper:
 
 ## Acknowledgement
 
-This repo is inspired by [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM?tab=readme-ov-file#other-awesome-lists) ⭐ 27,400 | 🐛 459 | 📅 2025-07-31
+This repo is inspired by [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM?tab=readme-ov-file#other-awesome-lists) ⭐ 27,406 | 🐛 460 | 📅 2025-07-31
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
