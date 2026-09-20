@@ -380,7 +380,7 @@
             "open_issues": 19,
             "owner": "Open3DA",
             "repo": "LL3DA",
-            "stars": 319,
+            "stars": 320,
             "topics": [
               "3d",
               "3d-models",
@@ -969,7 +969,7 @@
             "open_issues": 18,
             "owner": "pengsongyou",
             "repo": "openscene",
-            "stars": 849,
+            "stars": 850,
             "topics": [
               "3d-scene-understanding",
               "clip",
@@ -1234,7 +1234,7 @@
             "open_issues": 32,
             "owner": "huangwl18",
             "repo": "VoxPoser",
-            "stars": 837,
+            "stars": 839,
             "topics": [
               "embodied-ai",
               "foundation-models",
@@ -1317,7 +1317,7 @@
             "open_issues": 4,
             "owner": "VisionXLab",
             "repo": "SpaCE-10",
-            "stars": 20,
+            "stars": 21,
             "topics": []
           },
           "first_seen": "2026-08-29T02:12:45.918Z"
@@ -1650,7 +1650,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T21:28:05.080Z",
+    "last_updated": "2026-09-20T21:34:39.502Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-LLM-3D: a curated list of Multi-modal Large Language Model in 3D world  Resources",
