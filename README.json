@@ -88,7 +88,7 @@
             "open_issues": 11,
             "owner": "InternRobotics",
             "repo": "G2VLM",
-            "stars": 354,
+            "stars": 355,
             "topics": [
               "3d-llms",
               "3d-reconstruction",
@@ -334,7 +334,7 @@
             "open_issues": 12,
             "owner": "ZzZZCHS",
             "repo": "Chat-Scene",
-            "stars": 218,
+            "stars": 219,
             "topics": []
           },
           "first_seen": "2026-08-29T02:12:45.918Z"
@@ -454,7 +454,7 @@
             "open_issues": 23,
             "owner": "baaivision",
             "repo": "Uni3D",
-            "stars": 686,
+            "stars": 687,
             "topics": [
               "3d-representation-learning",
               "foundation-models",
@@ -583,7 +583,7 @@
             "open_issues": 31,
             "owner": "UMass-Embodied-AGI",
             "repo": "3D-LLM",
-            "stars": 1215,
+            "stars": 1216,
             "topics": []
           },
           "first_seen": "2026-08-29T02:12:45.918Z"
@@ -1650,7 +1650,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T21:34:39.502Z",
+    "last_updated": "2026-09-21T22:35:12.209Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-LLM-3D: a curated list of Multi-modal Large Language Model in 3D world  Resources",
