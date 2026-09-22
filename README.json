@@ -88,7 +88,7 @@
             "open_issues": 11,
             "owner": "InternRobotics",
             "repo": "G2VLM",
-            "stars": 355,
+            "stars": 357,
             "topics": [
               "3d-llms",
               "3d-reconstruction",
@@ -158,7 +158,7 @@
             "open_issues": 11,
             "owner": "djiajunustc",
             "repo": "3D-LLaVA",
-            "stars": 101,
+            "stars": 102,
             "topics": []
           },
           "first_seen": "2026-08-29T02:12:45.918Z"
@@ -583,7 +583,7 @@
             "open_issues": 31,
             "owner": "UMass-Embodied-AGI",
             "repo": "3D-LLM",
-            "stars": 1216,
+            "stars": 1217,
             "topics": []
           },
           "first_seen": "2026-08-29T02:12:45.918Z"
@@ -1208,7 +1208,7 @@
             "open_issues": 1,
             "owner": "InternRobotics",
             "repo": "UniHSI",
-            "stars": 247,
+            "stars": 248,
             "topics": [
               "human-scene-interaction",
               "llm",
@@ -1284,7 +1284,7 @@
             "open_issues": 1,
             "owner": "notmahi",
             "repo": "clip-fields",
-            "stars": 190,
+            "stars": 191,
             "topics": [
               "clip",
               "neural-fields",
@@ -1650,7 +1650,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T22:35:12.209Z",
+    "last_updated": "2026-09-22T22:10:01.098Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-LLM-3D: a curated list of Multi-modal Large Language Model in 3D world  Resources",
@@ -1662,7 +1662,7 @@
       "open_issues": 7,
       "owner": "ActiveVisionLab",
       "repo": "Awesome-LLM-3D",
-      "stars": 2259,
+      "stars": 2261,
       "topics": []
     },
     "original_repository_sha": "f01b39ba48d980a910791407ec5d626acf6005ff",
