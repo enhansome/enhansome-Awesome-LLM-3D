@@ -223,7 +223,7 @@
             "language": "C++",
             "license": null,
             "last_commit": "2025-03-29T04:55:57Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "Hoyyyaard",
             "repo": "LSceneLLM",
             "stars": 74,
@@ -1359,7 +1359,7 @@
             "open_issues": 20,
             "owner": "InternRobotics",
             "repo": "EmbodiedScan",
-            "stars": 679,
+            "stars": 680,
             "topics": [
               "3d-vision",
               "computer-vision",
@@ -1430,7 +1430,7 @@
             "open_issues": 20,
             "owner": "InternRobotics",
             "repo": "EmbodiedScan",
-            "stars": 679,
+            "stars": 680,
             "topics": [
               "3d-vision",
               "computer-vision",
@@ -1580,7 +1580,7 @@
             "open_issues": 12,
             "owner": "ATR-DBI",
             "repo": "ScanQA",
-            "stars": 163,
+            "stars": 164,
             "topics": []
           },
           "first_seen": "2026-08-29T02:12:45.918Z"
@@ -1650,7 +1650,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T23:49:35.557Z",
+    "last_updated": "2026-09-29T22:58:15.852Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-LLM-3D: a curated list of Multi-modal Large Language Model in 3D world  Resources",
