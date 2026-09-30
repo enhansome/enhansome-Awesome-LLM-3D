@@ -1234,7 +1234,7 @@
             "open_issues": 32,
             "owner": "huangwl18",
             "repo": "VoxPoser",
-            "stars": 839,
+            "stars": 838,
             "topics": [
               "embodied-ai",
               "foundation-models",
@@ -1650,7 +1650,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T22:58:15.852Z",
+    "last_updated": "2026-09-30T23:01:05.544Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-LLM-3D: a curated list of Multi-modal Large Language Model in 3D world  Resources",
@@ -1662,7 +1662,7 @@
       "open_issues": 8,
       "owner": "ActiveVisionLab",
       "repo": "Awesome-LLM-3D",
-      "stars": 2266,
+      "stars": 2267,
       "topics": []
     },
     "original_repository_sha": "f01b39ba48d980a910791407ec5d626acf6005ff",
