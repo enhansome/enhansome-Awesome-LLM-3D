@@ -1049,7 +1049,7 @@
             "open_issues": 3,
             "owner": "OpenShapeLab",
             "repo": "ShapeGPT",
-            "stars": 101,
+            "stars": 102,
             "topics": [
               "3d-generation",
               "caption-generation",
@@ -1650,7 +1650,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T23:01:05.544Z",
+    "last_updated": "2026-10-01T23:13:16.411Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-LLM-3D: a curated list of Multi-modal Large Language Model in 3D world  Resources",

@@ -156,7 +156,7 @@ This is an active repository, you can watch for following the latest advances. I
 | 2025-11-07 |  Omni-View |        PKU       | [Omni-View: Unlocking How Generation Facilitates Understanding in Unified 3D Model based on Multiview images](https://arxiv.org/abs/2511.07222) |  ICLR 2026  |   [github](https://github.com/AIDC-AI/Omni-View) ⭐ 56 \| 🐛 1 \| 🌐 Python \| 📅 2026-01-27  |   |       |            |
 | 2025-08-16 |   UniUGG   |        FDU       | [UniUGG: Unified 3D Understanding and Generation via Geometric-Semantic Encoding](https://arxiv.org/abs/2508.11952)                             |  ICLR 2026  |   [github](https://github.com/fudan-zvg/UniUGG) ⭐ 64 \| 🐛 2 \| 🌐 Python \| 📅 2026-07-16   |   |       |            |
 | 2024-11-14 | LLaMA-Mesh |        THU       | [LLaMA-Mesh: Unifying 3D Mesh Generation with Language Models](https://arxiv.org/html/2411.09595v1)                                             |    Arxiv    |              [project](https://research.nvidia.com/labs/toronto-ai/LLaMA-Mesh/)              |   |       |            |
-| 2023-11-29 |  ShapeGPT  | Fudan University | [ShapeGPT: 3D Shape Generation with A Unified Multi-modal Language Model](https://arxiv.org/pdf/2311.17618.pdf)                                 |    Arxiv    |       [github](https://github.com/OpenShapeLab/ShapeGPT) ⭐ 101 \| 🐛 3 \| 📅 2023-12-01      |   | Arxiv | [github]() |
+| 2023-11-29 |  ShapeGPT  | Fudan University | [ShapeGPT: 3D Shape Generation with A Unified Multi-modal Language Model](https://arxiv.org/pdf/2311.17618.pdf)                                 |    Arxiv    |       [github](https://github.com/OpenShapeLab/ShapeGPT) ⭐ 102 \| 🐛 3 \| 📅 2023-12-01      |   | Arxiv | [github]() |
 | 2023-11-27 |   MeshGPT  |        TUM       | [MeshGPT: Generating Triangle Meshes with Decoder-Only Transformers](https://arxiv.org/pdf/2311.15475.pdf)                                      |    Arxiv    |                        [project](https://nihalsid.github.io/mesh-gpt/)                       |   |       |            |
 | 2023-10-19 |   3D-GPT   |        ANU       | [3D-GPT: Procedural 3D Modeling with Large Language Models](https://arxiv.org/pdf/2310.12945.pdf)                                               |    Arxiv    |                             [github](https://dreamllm.github.io/)                            |   |       |            |
 |  2023-9-21 |    LLMR    |        MIT       | [LLMR: Real-time Prompting of Interactive Worlds using Large Language Models](https://arxiv.org/pdf/2309.12276.pdf)                             |    Arxiv    |                                               -                                              |   |       |            |
@@ -249,8 +249,8 @@ If you find this repository useful, please consider citing this paper:
 
 ## Acknowledgement
 
-This repo is inspired by [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM?tab=readme-ov-file#other-awesome-lists) ⭐ 27,437 | 🐛 467 | 📅 2025-07-31
+This repo is inspired by [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM?tab=readme-ov-file#other-awesome-lists) ⭐ 27,435 | 🐛 469 | 📅 2025-07-31
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
