@@ -249,7 +249,7 @@ If you find this repository useful, please consider citing this paper:
 
 ## Acknowledgement
 
-This repo is inspired by [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM?tab=readme-ov-file#other-awesome-lists) ⭐ 27,433 | 🐛 470 | 📅 2025-07-31
+This repo is inspired by [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM?tab=readme-ov-file#other-awesome-lists) ⭐ 27,435 | 🐛 471 | 📅 2025-07-31
 
 ***
 
