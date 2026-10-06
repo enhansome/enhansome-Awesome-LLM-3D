@@ -334,7 +334,7 @@
             "open_issues": 12,
             "owner": "ZzZZCHS",
             "repo": "Chat-Scene",
-            "stars": 219,
+            "stars": 218,
             "topics": []
           },
           "first_seen": "2026-08-29T02:12:45.918Z"
@@ -479,7 +479,7 @@
             "open_issues": 3,
             "owner": "sled-group",
             "repo": "chat-with-nerf",
-            "stars": 323,
+            "stars": 322,
             "topics": [
               "blip2",
               "chatgpt",
@@ -528,7 +528,7 @@
             "open_issues": 9,
             "owner": "InternRobotics",
             "repo": "PointLLM",
-            "stars": 1056,
+            "stars": 1055,
             "topics": [
               "3d",
               "chatbot",
@@ -583,7 +583,7 @@
             "open_issues": 31,
             "owner": "UMass-Embodied-AGI",
             "repo": "3D-LLM",
-            "stars": 1216,
+            "stars": 1215,
             "topics": []
           },
           "first_seen": "2026-08-29T02:12:45.918Z"
@@ -969,7 +969,7 @@
             "open_issues": 18,
             "owner": "pengsongyou",
             "repo": "openscene",
-            "stars": 851,
+            "stars": 852,
             "topics": [
               "3d-scene-understanding",
               "clip",
@@ -1263,7 +1263,7 @@
             "open_issues": 2,
             "owner": "OSU-NLP-Group",
             "repo": "LLM-Planner",
-            "stars": 227,
+            "stars": 226,
             "topics": []
           },
           "first_seen": "2026-08-29T02:12:45.918Z"
@@ -1650,7 +1650,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T22:20:18.662Z",
+    "last_updated": "2026-10-06T00:49:44.360Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-LLM-3D: a curated list of Multi-modal Large Language Model in 3D world  Resources",
@@ -1662,7 +1662,7 @@
       "open_issues": 8,
       "owner": "ActiveVisionLab",
       "repo": "Awesome-LLM-3D",
-      "stars": 2267,
+      "stars": 2269,
       "topics": []
     },
     "original_repository_sha": "f01b39ba48d980a910791407ec5d626acf6005ff",
