@@ -507,7 +507,7 @@
             "open_issues": 12,
             "owner": "ZiyuGuo99",
             "repo": "Point-Bind_Point-LLM",
-            "stars": 466,
+            "stars": 465,
             "topics": []
           },
           "first_seen": "2026-08-29T02:12:45.918Z"
@@ -583,7 +583,7 @@
             "open_issues": 31,
             "owner": "UMass-Embodied-AGI",
             "repo": "3D-LLM",
-            "stars": 1215,
+            "stars": 1214,
             "topics": []
           },
           "first_seen": "2026-08-29T02:12:45.918Z"
@@ -921,7 +921,7 @@
             "open_issues": 14,
             "owner": "runnanchen",
             "repo": "CLIP2Scene",
-            "stars": 187,
+            "stars": 188,
             "topics": []
           },
           "first_seen": "2026-08-29T02:12:45.918Z"
@@ -1650,7 +1650,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T00:49:44.360Z",
+    "last_updated": "2026-10-06T10:33:08.910Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-LLM-3D: a curated list of Multi-modal Large Language Model in 3D world  Resources",
