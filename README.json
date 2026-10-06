@@ -1650,7 +1650,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:33:08.910Z",
+    "last_updated": "2026-10-06T23:04:25.200Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-LLM-3D: a curated list of Multi-modal Large Language Model in 3D world  Resources",
@@ -1662,7 +1662,7 @@
       "open_issues": 8,
       "owner": "ActiveVisionLab",
       "repo": "Awesome-LLM-3D",
-      "stars": 2269,
+      "stars": 2270,
       "topics": []
     },
     "original_repository_sha": "f01b39ba48d980a910791407ec5d626acf6005ff",
