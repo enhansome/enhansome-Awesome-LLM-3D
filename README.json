@@ -88,7 +88,7 @@
             "open_issues": 11,
             "owner": "InternRobotics",
             "repo": "G2VLM",
-            "stars": 359,
+            "stars": 360,
             "topics": [
               "3d-llms",
               "3d-reconstruction",
@@ -334,7 +334,7 @@
             "open_issues": 12,
             "owner": "ZzZZCHS",
             "repo": "Chat-Scene",
-            "stars": 221,
+            "stars": 222,
             "topics": []
           },
           "first_seen": "2026-08-29T02:12:45.918Z"
@@ -433,7 +433,7 @@
             "open_issues": 1,
             "owner": "Mr-Neko",
             "repo": "JM3D",
-            "stars": 31,
+            "stars": 32,
             "topics": []
           },
           "first_seen": "2026-08-29T02:12:45.918Z"
@@ -1650,7 +1650,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T01:22:18.405Z",
+    "last_updated": "2026-10-13T23:16:43.298Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-LLM-3D: a curated list of Multi-modal Large Language Model in 3D world  Resources",
