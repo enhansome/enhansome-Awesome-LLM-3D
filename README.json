@@ -155,10 +155,10 @@
             "language": "Python",
             "license": null,
             "last_commit": "2025-05-26T14:50:49Z",
-            "open_issues": 11,
+            "open_issues": 12,
             "owner": "djiajunustc",
             "repo": "3D-LLaVA",
-            "stars": 102,
+            "stars": 101,
             "topics": []
           },
           "first_seen": "2026-08-29T02:12:45.918Z"
@@ -334,7 +334,7 @@
             "open_issues": 12,
             "owner": "ZzZZCHS",
             "repo": "Chat-Scene",
-            "stars": 220,
+            "stars": 221,
             "topics": []
           },
           "first_seen": "2026-08-29T02:12:45.918Z"
@@ -507,7 +507,7 @@
             "open_issues": 12,
             "owner": "ZiyuGuo99",
             "repo": "Point-Bind_Point-LLM",
-            "stars": 465,
+            "stars": 464,
             "topics": []
           },
           "first_seen": "2026-08-29T02:12:45.918Z"
@@ -673,7 +673,7 @@
             "open_issues": 3,
             "owner": "yangcaoai",
             "repo": "CoDA_NeurIPS2023",
-            "stars": 224,
+            "stars": 223,
             "topics": [
               "3d-detection",
               "3d-vision",
@@ -724,7 +724,7 @@
             "open_issues": 1,
             "owner": "shiyoung77",
             "repo": "OVIR-3D",
-            "stars": 115,
+            "stars": 116,
             "topics": []
           },
           "first_seen": "2026-08-29T02:12:45.918Z"
@@ -771,7 +771,7 @@
             "open_issues": 3,
             "owner": "yangcaoai",
             "repo": "CoDA_NeurIPS2023",
-            "stars": 224,
+            "stars": 223,
             "topics": [
               "3d-detection",
               "3d-vision",
@@ -1601,7 +1601,7 @@
             "open_issues": 11,
             "owner": "daveredrum",
             "repo": "Scan2Cap",
-            "stars": 109,
+            "stars": 110,
             "topics": [
               "3d",
               "caption-generation",
@@ -1650,7 +1650,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T22:55:33.976Z",
+    "last_updated": "2026-10-13T01:22:18.405Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-LLM-3D: a curated list of Multi-modal Large Language Model in 3D world  Resources",
@@ -1662,7 +1662,7 @@
       "open_issues": 8,
       "owner": "ActiveVisionLab",
       "repo": "Awesome-LLM-3D",
-      "stars": 2269,
+      "stars": 2268,
       "topics": []
     },
     "original_repository_sha": "f01b39ba48d980a910791407ec5d626acf6005ff",
