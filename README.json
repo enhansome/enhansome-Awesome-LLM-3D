@@ -247,7 +247,7 @@
             "open_issues": 10,
             "owner": "LaVi-Lab",
             "repo": "Video-3D-LLM",
-            "stars": 224,
+            "stars": 225,
             "topics": []
           },
           "first_seen": "2026-08-29T02:12:45.918Z"
@@ -454,7 +454,7 @@
             "open_issues": 23,
             "owner": "baaivision",
             "repo": "Uni3D",
-            "stars": 687,
+            "stars": 688,
             "topics": [
               "3d-representation-learning",
               "foundation-models",
@@ -1106,7 +1106,7 @@
             "open_issues": 4,
             "owner": "zd11024",
             "repo": "NaviLLM",
-            "stars": 239,
+            "stars": 241,
             "topics": [
               "3d-question-answering",
               "embodied-ai",
@@ -1650,7 +1650,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T22:54:28.290Z",
+    "last_updated": "2026-10-20T22:18:31.585Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-LLM-3D: a curated list of Multi-modal Large Language Model in 3D world  Resources",
@@ -1662,7 +1662,7 @@
       "open_issues": 10,
       "owner": "ActiveVisionLab",
       "repo": "Awesome-LLM-3D",
-      "stars": 2271,
+      "stars": 2272,
       "topics": []
     },
     "original_repository_sha": "f01b39ba48d980a910791407ec5d626acf6005ff",
