@@ -88,7 +88,7 @@
             "open_issues": 11,
             "owner": "InternRobotics",
             "repo": "G2VLM",
-            "stars": 360,
+            "stars": 361,
             "topics": [
               "3d-llms",
               "3d-reconstruction",
@@ -158,7 +158,7 @@
             "open_issues": 12,
             "owner": "djiajunustc",
             "repo": "3D-LLaVA",
-            "stars": 101,
+            "stars": 103,
             "topics": []
           },
           "first_seen": "2026-08-29T02:12:45.918Z"
@@ -310,7 +310,7 @@
             "open_issues": 26,
             "owner": "AnjieCheng",
             "repo": "SpatialRGPT",
-            "stars": 340,
+            "stars": 341,
             "topics": [
               "spatial-reasoning",
               "vision-language-model"
@@ -380,7 +380,7 @@
             "open_issues": 19,
             "owner": "Open3DA",
             "repo": "LL3DA",
-            "stars": 320,
+            "stars": 321,
             "topics": [
               "3d",
               "3d-models",
@@ -454,7 +454,7 @@
             "open_issues": 23,
             "owner": "baaivision",
             "repo": "Uni3D",
-            "stars": 688,
+            "stars": 689,
             "topics": [
               "3d-representation-learning",
               "foundation-models",
@@ -528,7 +528,7 @@
             "open_issues": 9,
             "owner": "InternRobotics",
             "repo": "PointLLM",
-            "stars": 1058,
+            "stars": 1059,
             "topics": [
               "3d",
               "chatbot",
@@ -1385,7 +1385,7 @@
             "open_issues": 26,
             "owner": "AnjieCheng",
             "repo": "SpatialRGPT",
-            "stars": 340,
+            "stars": 341,
             "topics": [
               "spatial-reasoning",
               "vision-language-model"
@@ -1577,7 +1577,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2023-08-23T08:26:23Z",
-            "open_issues": 12,
+            "open_issues": 13,
             "owner": "ATR-DBI",
             "repo": "ScanQA",
             "stars": 165,
@@ -1650,7 +1650,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T22:18:31.585Z",
+    "last_updated": "2026-10-21T22:22:35.326Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-LLM-3D: a curated list of Multi-modal Large Language Model in 3D world  Resources",
@@ -1662,7 +1662,7 @@
       "open_issues": 10,
       "owner": "ActiveVisionLab",
       "repo": "Awesome-LLM-3D",
-      "stars": 2272,
+      "stars": 2273,
       "topics": []
     },
     "original_repository_sha": "f01b39ba48d980a910791407ec5d626acf6005ff",
