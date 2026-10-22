@@ -583,7 +583,7 @@
             "open_issues": 31,
             "owner": "UMass-Embodied-AGI",
             "repo": "3D-LLM",
-            "stars": 1216,
+            "stars": 1217,
             "topics": []
           },
           "first_seen": "2026-08-29T02:12:45.918Z"
@@ -1208,7 +1208,7 @@
             "open_issues": 1,
             "owner": "InternRobotics",
             "repo": "UniHSI",
-            "stars": 248,
+            "stars": 249,
             "topics": [
               "human-scene-interaction",
               "llm",
@@ -1650,7 +1650,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T22:22:35.326Z",
+    "last_updated": "2026-10-22T22:21:08.366Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-LLM-3D: a curated list of Multi-modal Large Language Model in 3D world  Resources",
@@ -1662,7 +1662,7 @@
       "open_issues": 10,
       "owner": "ActiveVisionLab",
       "repo": "Awesome-LLM-3D",
-      "stars": 2273,
+      "stars": 2276,
       "topics": []
     },
     "original_repository_sha": "f01b39ba48d980a910791407ec5d626acf6005ff",
