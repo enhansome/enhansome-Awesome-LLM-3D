@@ -26,19 +26,19 @@
         },
         {
           "node_type": "item",
-          "title": "fudan-zvg/UniUGG",
+          "title": "LogosIntelligenceLab/UniUGG",
           "description": "UniUGG FDU UniUGG: Unified 3D Understanding and Generation via Geometric-Semantic Encoding ICLR 2026",
           "children": [],
           "repo_info": {
             "archived": false,
             "description": "[ICLR 2026] UniUGG: Unified 3D Understanding and Generation via Geometric-Semantic Encoding",
-            "homepage": null,
+            "homepage": "https://logosintelligencelab.github.io/UniUGG/",
             "id": 1035913630,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-07-16T12:20:45Z",
+            "last_commit": "2026-10-24T14:18:34Z",
             "open_issues": 2,
-            "owner": "fudan-zvg",
+            "owner": "LogosIntelligenceLab",
             "repo": "UniUGG",
             "stars": 65,
             "topics": []
@@ -123,19 +123,19 @@
         },
         {
           "node_type": "item",
-          "title": "fudan-zvg/UniUGG",
+          "title": "LogosIntelligenceLab/UniUGG",
           "description": "UniUGG FDU UniUGG: Unified 3D Understanding and Generation via Geometric-Semantic Encoding ICLR 2026",
           "children": [],
           "repo_info": {
             "archived": false,
             "description": "[ICLR 2026] UniUGG: Unified 3D Understanding and Generation via Geometric-Semantic Encoding",
-            "homepage": null,
+            "homepage": "https://logosintelligencelab.github.io/UniUGG/",
             "id": 1035913630,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-07-16T12:20:45Z",
+            "last_commit": "2026-10-24T14:18:34Z",
             "open_issues": 2,
-            "owner": "fudan-zvg",
+            "owner": "LogosIntelligenceLab",
             "repo": "UniUGG",
             "stars": 65,
             "topics": []
@@ -673,7 +673,7 @@
             "open_issues": 3,
             "owner": "yangcaoai",
             "repo": "CoDA_NeurIPS2023",
-            "stars": 223,
+            "stars": 224,
             "topics": [
               "3d-detection",
               "3d-vision",
@@ -771,7 +771,7 @@
             "open_issues": 3,
             "owner": "yangcaoai",
             "repo": "CoDA_NeurIPS2023",
-            "stars": 223,
+            "stars": 224,
             "topics": [
               "3d-detection",
               "3d-vision",
@@ -1014,19 +1014,19 @@
         },
         {
           "node_type": "item",
-          "title": "fudan-zvg/UniUGG",
+          "title": "LogosIntelligenceLab/UniUGG",
           "description": "UniUGG FDU UniUGG: Unified 3D Understanding and Generation via Geometric-Semantic Encoding ICLR 2026",
           "children": [],
           "repo_info": {
             "archived": false,
             "description": "[ICLR 2026] UniUGG: Unified 3D Understanding and Generation via Geometric-Semantic Encoding",
-            "homepage": null,
+            "homepage": "https://logosintelligencelab.github.io/UniUGG/",
             "id": 1035913630,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-07-16T12:20:45Z",
+            "last_commit": "2026-10-24T14:18:34Z",
             "open_issues": 2,
-            "owner": "fudan-zvg",
+            "owner": "LogosIntelligenceLab",
             "repo": "UniUGG",
             "stars": 65,
             "topics": []
@@ -1650,7 +1650,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T22:12:20.040Z",
+    "last_updated": "2026-10-24T21:36:58.809Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-LLM-3D: a curated list of Multi-modal Large Language Model in 3D world  Resources",
