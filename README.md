@@ -176,7 +176,7 @@ This is an active repository, you can watch for following the latest advances. I
 | 2023-11-27 |    Dobb-E    |            NYU            | [On Bringing Robots Home](https://arxiv.org/pdf/2311.16098.pdf)                                                                         |    Arxiv    |              [github](https://github.com/notmahi/dobb-e) ⭐ 621 \| 🐛 4 \| 🌐 G-code \| 📅 2024-10-15             |
 | 2023-11-26 |     STEVE    |            ZJU            | [See and Think: Embodied Agent in Virtual Environment](https://arxiv.org/abs/2311.15209)                                                |    Arxiv    |                      [github](https://github.com/rese1f/STEVE) ⭐ 42 \| 🐛 3 \| 📅 2023-12-27                     |
 | 2023-11-18 |      LEO     |           BIGAI           | [An Embodied Generalist Agent in 3D World](https://arxiv.org/pdf/2311.12871.pdf)                                                        |   ICML '24  | [github](https://github.com/embodied-generalist/embodied-generalist) ⭐ 491 \| 🐛 0 \| 🌐 Python \| 📅 2025-04-20 |
-|  2023-9-14 |    UniHSI    |      Shanghai AI Lab      | [Unified Human-Scene Interaction via Prompted Chain-of-Contacts](https://arxiv.org/pdf/2309.07918.pdf)                                  |    Arxiv    |           [github](https://github.com/OpenRobotLab/UniHSI) ⭐ 249 \| 🐛 1 \| 🌐 Python \| 📅 2025-07-15           |
+|  2023-9-14 |    UniHSI    |      Shanghai AI Lab      | [Unified Human-Scene Interaction via Prompted Chain-of-Contacts](https://arxiv.org/pdf/2309.07918.pdf)                                  |    Arxiv    |           [github](https://github.com/OpenRobotLab/UniHSI) ⭐ 250 \| 🐛 1 \| 🌐 Python \| 📅 2025-07-15           |
 |  2023-7-28 |     RT-2     |      Google-DeepMind      | [RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control](https://arxiv.org/pdf/2307.15818.pdf)                   |    Arxiv    |                                [github](https://robotics-transformer2.github.io/)                                |
 |  2023-7-12 |    SayPlan   |  QUT Centre for Robotics  | [SayPlan: Grounding Large Language Models using 3D Scene Graphs for Scalable Robot Task Planning](https://arxiv.org/pdf/2307.06135.pdf) |   CoRL '23  |                                       [github](https://sayplan.github.io/)                                       |
 |  2023-7-12 |   VoxPoser   |          Stanford         | [VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models](https://voxposer.github.io/voxposer.pdf)             |    Arxiv    |           [github](https://github.com/huangwl18/VoxPoser) ⭐ 837 \| 🐛 32 \| 🌐 Python \| 📅 2025-02-20           |
@@ -249,8 +249,8 @@ If you find this repository useful, please consider citing this paper:
 
 ## Acknowledgement
 
-This repo is inspired by [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM?tab=readme-ov-file#other-awesome-lists) ⭐ 27,458 | 🐛 488 | 📅 2025-07-31
+This repo is inspired by [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM?tab=readme-ov-file#other-awesome-lists) ⭐ 27,463 | 🐛 489 | 📅 2025-07-31
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
