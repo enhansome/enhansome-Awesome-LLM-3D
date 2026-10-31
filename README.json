@@ -454,7 +454,7 @@
             "open_issues": 23,
             "owner": "baaivision",
             "repo": "Uni3D",
-            "stars": 689,
+            "stars": 690,
             "topics": [
               "3d-representation-learning",
               "foundation-models",
@@ -1650,7 +1650,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T22:58:36.970Z",
+    "last_updated": "2026-10-31T22:29:43.194Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-LLM-3D: a curated list of Multi-modal Large Language Model in 3D world  Resources",
