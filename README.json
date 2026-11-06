@@ -451,10 +451,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-01-12T08:39:36Z",
-            "open_issues": 23,
+            "open_issues": 22,
             "owner": "baaivision",
             "repo": "Uni3D",
-            "stars": 690,
+            "stars": 689,
             "topics": [
               "3d-representation-learning",
               "foundation-models",
@@ -583,7 +583,7 @@
             "open_issues": 31,
             "owner": "UMass-Embodied-AGI",
             "repo": "3D-LLM",
-            "stars": 1219,
+            "stars": 1220,
             "topics": []
           },
           "first_seen": "2026-08-29T02:12:45.918Z"
@@ -900,7 +900,7 @@
             "open_issues": 34,
             "owner": "kerrj",
             "repo": "lerf",
-            "stars": 734,
+            "stars": 735,
             "topics": []
           },
           "first_seen": "2026-08-29T02:12:45.918Z"
@@ -1234,7 +1234,7 @@
             "open_issues": 32,
             "owner": "huangwl18",
             "repo": "VoxPoser",
-            "stars": 839,
+            "stars": 840,
             "topics": [
               "embodied-ai",
               "foundation-models",
@@ -1263,7 +1263,7 @@
             "open_issues": 2,
             "owner": "OSU-NLP-Group",
             "repo": "LLM-Planner",
-            "stars": 227,
+            "stars": 226,
             "topics": []
           },
           "first_seen": "2026-08-29T02:12:45.918Z"
@@ -1359,7 +1359,7 @@
             "open_issues": 20,
             "owner": "InternRobotics",
             "repo": "EmbodiedScan",
-            "stars": 680,
+            "stars": 679,
             "topics": [
               "3d-vision",
               "computer-vision",
@@ -1430,7 +1430,7 @@
             "open_issues": 20,
             "owner": "InternRobotics",
             "repo": "EmbodiedScan",
-            "stars": 680,
+            "stars": 679,
             "topics": [
               "3d-vision",
               "computer-vision",
@@ -1650,7 +1650,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T00:22:51.114Z",
+    "last_updated": "2026-11-06T00:17:28.812Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-LLM-3D: a curated list of Multi-modal Large Language Model in 3D world  Resources",
@@ -1662,7 +1662,7 @@
       "open_issues": 10,
       "owner": "ActiveVisionLab",
       "repo": "Awesome-LLM-3D",
-      "stars": 2280,
+      "stars": 2281,
       "topics": []
     },
     "original_repository_sha": "f01b39ba48d980a910791407ec5d626acf6005ff",
