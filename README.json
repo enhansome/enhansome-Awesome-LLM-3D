@@ -310,7 +310,7 @@
             "open_issues": 26,
             "owner": "AnjieCheng",
             "repo": "SpatialRGPT",
-            "stars": 343,
+            "stars": 344,
             "topics": [
               "spatial-reasoning",
               "vision-language-model"
@@ -528,7 +528,7 @@
             "open_issues": 9,
             "owner": "InternRobotics",
             "repo": "PointLLM",
-            "stars": 1063,
+            "stars": 1064,
             "topics": [
               "3d",
               "chatbot",
@@ -1208,7 +1208,7 @@
             "open_issues": 1,
             "owner": "InternRobotics",
             "repo": "UniHSI",
-            "stars": 250,
+            "stars": 249,
             "topics": [
               "human-scene-interaction",
               "llm",
@@ -1385,7 +1385,7 @@
             "open_issues": 26,
             "owner": "AnjieCheng",
             "repo": "SpatialRGPT",
-            "stars": 343,
+            "stars": 344,
             "topics": [
               "spatial-reasoning",
               "vision-language-model"
@@ -1650,7 +1650,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T22:54:03.941Z",
+    "last_updated": "2026-11-10T02:09:37.497Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-LLM-3D: a curated list of Multi-modal Large Language Model in 3D world  Resources",
