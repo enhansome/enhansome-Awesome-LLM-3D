@@ -1234,7 +1234,7 @@
             "open_issues": 32,
             "owner": "huangwl18",
             "repo": "VoxPoser",
-            "stars": 840,
+            "stars": 839,
             "topics": [
               "embodied-ai",
               "foundation-models",
@@ -1284,7 +1284,7 @@
             "open_issues": 1,
             "owner": "notmahi",
             "repo": "clip-fields",
-            "stars": 192,
+            "stars": 193,
             "topics": [
               "clip",
               "neural-fields",
@@ -1650,7 +1650,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T02:09:37.497Z",
+    "last_updated": "2026-11-11T00:02:39.244Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-LLM-3D: a curated list of Multi-modal Large Language Model in 3D world  Resources",
@@ -1662,7 +1662,7 @@
       "open_issues": 10,
       "owner": "ActiveVisionLab",
       "repo": "Awesome-LLM-3D",
-      "stars": 2282,
+      "stars": 2283,
       "topics": []
     },
     "original_repository_sha": "f01b39ba48d980a910791407ec5d626acf6005ff",
