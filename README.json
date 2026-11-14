@@ -226,7 +226,7 @@
             "open_issues": 2,
             "owner": "Hoyyyaard",
             "repo": "LSceneLLM",
-            "stars": 74,
+            "stars": 73,
             "topics": []
           },
           "first_seen": "2026-08-29T02:12:45.918Z"
@@ -310,7 +310,7 @@
             "open_issues": 26,
             "owner": "AnjieCheng",
             "repo": "SpatialRGPT",
-            "stars": 344,
+            "stars": 345,
             "topics": [
               "spatial-reasoning",
               "vision-language-model"
@@ -1385,7 +1385,7 @@
             "open_issues": 26,
             "owner": "AnjieCheng",
             "repo": "SpatialRGPT",
-            "stars": 344,
+            "stars": 345,
             "topics": [
               "spatial-reasoning",
               "vision-language-model"
@@ -1601,7 +1601,7 @@
             "open_issues": 11,
             "owner": "daveredrum",
             "repo": "Scan2Cap",
-            "stars": 110,
+            "stars": 111,
             "topics": [
               "3d",
               "caption-generation",
@@ -1650,7 +1650,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T00:25:58.557Z",
+    "last_updated": "2026-11-14T00:20:28.087Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-LLM-3D: a curated list of Multi-modal Large Language Model in 3D world  Resources",
@@ -1662,7 +1662,7 @@
       "open_issues": 10,
       "owner": "ActiveVisionLab",
       "repo": "Awesome-LLM-3D",
-      "stars": 2284,
+      "stars": 2285,
       "topics": []
     },
     "original_repository_sha": "f01b39ba48d980a910791407ec5d626acf6005ff",
