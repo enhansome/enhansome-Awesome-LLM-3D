@@ -310,7 +310,7 @@
             "open_issues": 26,
             "owner": "AnjieCheng",
             "repo": "SpatialRGPT",
-            "stars": 345,
+            "stars": 346,
             "topics": [
               "spatial-reasoning",
               "vision-language-model"
@@ -1359,7 +1359,7 @@
             "open_issues": 20,
             "owner": "InternRobotics",
             "repo": "EmbodiedScan",
-            "stars": 681,
+            "stars": 680,
             "topics": [
               "3d-vision",
               "computer-vision",
@@ -1385,7 +1385,7 @@
             "open_issues": 26,
             "owner": "AnjieCheng",
             "repo": "SpatialRGPT",
-            "stars": 345,
+            "stars": 346,
             "topics": [
               "spatial-reasoning",
               "vision-language-model"
@@ -1430,7 +1430,7 @@
             "open_issues": 20,
             "owner": "InternRobotics",
             "repo": "EmbodiedScan",
-            "stars": 681,
+            "stars": 680,
             "topics": [
               "3d-vision",
               "computer-vision",
@@ -1650,7 +1650,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T01:37:31.509Z",
+    "last_updated": "2026-11-19T01:13:22.754Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-LLM-3D: a curated list of Multi-modal Large Language Model in 3D world  Resources",
