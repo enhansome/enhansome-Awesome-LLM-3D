@@ -88,7 +88,7 @@
             "open_issues": 11,
             "owner": "InternRobotics",
             "repo": "G2VLM",
-            "stars": 363,
+            "stars": 364,
             "topics": [
               "3d-llms",
               "3d-reconstruction",
@@ -1106,7 +1106,7 @@
             "open_issues": 4,
             "owner": "zd11024",
             "repo": "NaviLLM",
-            "stars": 241,
+            "stars": 242,
             "topics": [
               "3d-question-answering",
               "embodied-ai",
@@ -1650,7 +1650,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T01:16:29.812Z",
+    "last_updated": "2026-11-21T00:48:26.665Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-LLM-3D: a curated list of Multi-modal Large Language Model in 3D world  Resources",
@@ -1662,7 +1662,7 @@
       "open_issues": 10,
       "owner": "ActiveVisionLab",
       "repo": "Awesome-LLM-3D",
-      "stars": 2283,
+      "stars": 2284,
       "topics": []
     },
     "original_repository_sha": "f01b39ba48d980a910791407ec5d626acf6005ff",
