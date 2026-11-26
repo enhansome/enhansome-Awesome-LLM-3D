@@ -507,7 +507,7 @@
             "open_issues": 12,
             "owner": "ZiyuGuo99",
             "repo": "Point-Bind_Point-LLM",
-            "stars": 466,
+            "stars": 467,
             "topics": []
           },
           "first_seen": "2026-08-29T02:12:45.918Z"
@@ -528,7 +528,7 @@
             "open_issues": 9,
             "owner": "Sage-PhysicalAI",
             "repo": "PointLLM",
-            "stars": 1065,
+            "stars": 1066,
             "topics": [
               "3d",
               "chatbot",
@@ -703,7 +703,7 @@
             "open_issues": 0,
             "owner": "Ivan-Tang-3D",
             "repo": "Any2Point",
-            "stars": 126,
+            "stars": 127,
             "topics": []
           },
           "first_seen": "2026-08-29T02:12:45.918Z"
@@ -969,7 +969,7 @@
             "open_issues": 18,
             "owner": "pengsongyou",
             "repo": "openscene",
-            "stars": 859,
+            "stars": 860,
             "topics": [
               "3d-scene-understanding",
               "clip",
@@ -1633,7 +1633,7 @@
             "open_issues": 8,
             "owner": "referit3d",
             "repo": "referit3d",
-            "stars": 141,
+            "stars": 142,
             "topics": [
               "computer-graphics",
               "computer-vision",
@@ -1650,7 +1650,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T03:01:57.496Z",
+    "last_updated": "2026-11-26T02:13:20.474Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-LLM-3D: a curated list of Multi-modal Large Language Model in 3D world  Resources",
