@@ -380,7 +380,7 @@
             "open_issues": 19,
             "owner": "Open3DA",
             "repo": "LL3DA",
-            "stars": 321,
+            "stars": 320,
             "topics": [
               "3d",
               "3d-models",
@@ -969,7 +969,7 @@
             "open_issues": 18,
             "owner": "pengsongyou",
             "repo": "openscene",
-            "stars": 860,
+            "stars": 861,
             "topics": [
               "3d-scene-understanding",
               "clip",
@@ -1079,7 +1079,7 @@
             "open_issues": 0,
             "owner": "RunpeiDong",
             "repo": "DreamLLM",
-            "stars": 463,
+            "stars": 465,
             "topics": []
           },
           "first_seen": "2026-08-29T02:12:45.918Z"
@@ -1580,7 +1580,7 @@
             "open_issues": 13,
             "owner": "ATR-DBI",
             "repo": "ScanQA",
-            "stars": 165,
+            "stars": 166,
             "topics": []
           },
           "first_seen": "2026-08-29T02:12:45.918Z"
@@ -1650,7 +1650,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T02:13:20.474Z",
+    "last_updated": "2026-11-27T02:11:20.838Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-LLM-3D: a curated list of Multi-modal Large Language Model in 3D world  Resources",
@@ -1662,7 +1662,7 @@
       "open_issues": 8,
       "owner": "ActiveVisionLab",
       "repo": "Awesome-LLM-3D",
-      "stars": 2285,
+      "stars": 2286,
       "topics": []
     },
     "original_repository_sha": "f01b39ba48d980a910791407ec5d626acf6005ff",
