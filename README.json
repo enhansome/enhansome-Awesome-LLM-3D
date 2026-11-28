@@ -88,7 +88,7 @@
             "open_issues": 11,
             "owner": "Sage-PhysicalAI",
             "repo": "G2VLM",
-            "stars": 364,
+            "stars": 363,
             "topics": [
               "3d-llms",
               "3d-reconstruction",
@@ -1650,7 +1650,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T02:11:20.838Z",
+    "last_updated": "2026-11-28T01:59:44.307Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-LLM-3D: a curated list of Multi-modal Large Language Model in 3D world  Resources",
